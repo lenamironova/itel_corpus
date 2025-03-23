@@ -1,7 +1,0 @@
-IPA	МФА
-UPA	УФА
-corpus	корпусная
-cyrillic	кириллица
-dictionary	словарная
-latin	латиница
-original	исходная
