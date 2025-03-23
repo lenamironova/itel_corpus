@@ -1,0 +1,18 @@
+{
+    "settings": {
+      "analysis": {
+        "analyzer": {
+          "default": {
+            "type": "standard"
+          }
+        }
+      }
+    },
+    "mappings": {
+      "properties": {
+        "text": { "type": "text", "analyzer": "standard" },
+        "translation": { "type": "text", "analyzer": "standard" },
+        "speaker": { "type": "keyword" }
+      }
+    }
+  }
