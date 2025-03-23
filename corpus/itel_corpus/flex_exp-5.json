@@ -1,0 +1,4023 @@
+{
+  "meta": {
+    "title": "Манк Кутх ҳољака кљқзукнэн.",
+    "filename": "corpus/xml/flex_exp.xml"
+  },
+  "sentences": [
+    {
+      "lang": 0,
+      "words": [
+        {
+          "wtype": "punct",
+          "wf": "1.",
+          "off_start": 0,
+          "off_end": 2,
+          "next_word": 1
+        },
+        {
+          "wtype": "word",
+          "wf": "Манк",
+          "ana": [
+            {
+              "parts": "манк",
+              "gloss": "",
+              "gloss_index": "STEM{манк}-",
+              "lex": "манк",
+              "trans_ru": "как",
+              "gloss_ru": "как",
+              "gloss_index_ru": "STEM{манк}-",
+              "gr.pos": "adv"
+            }
+          ],
+          "off_start": 3,
+          "off_end": 7,
+          "next_word": 2,
+          "sentence_index": 0,
+          "sentence_index_neg": 3
+        },
+        {
+          "wtype": "word",
+          "wf": "Кутх",
+          "ana": [
+            {
+              "parts": "Кутх",
+              "gloss": "",
+              "gloss_index": "",
+              "gr.pos": "n"
+            }
+          ],
+          "off_start": 8,
+          "off_end": 12,
+          "next_word": 3,
+          "sentence_index": 1,
+          "sentence_index_neg": 2
+        },
+        {
+          "wtype": "word",
+          "wf": "ҳољака",
+          "ana": [
+            {
+              "parts": "ҳоља-ка",
+              "gloss": "",
+              "gloss_index": "парень{ҳоља}-TRANS{ка}-",
+              "gloss_ru": "парень-TRANS",
+              "gloss_index_ru": "парень{ҳоља}-TRANS{ка}-",
+              "gr.pos": "n"
+            }
+          ],
+          "off_start": 13,
+          "off_end": 19,
+          "next_word": 4,
+          "sentence_index": 2,
+          "sentence_index_neg": 1
+        },
+        {
+          "wtype": "word",
+          "wf": "кқзукнэн",
+          "ana": [
+            {
+              "parts": "к--қзу-кнэн",
+              "gloss": "",
+              "gloss_index": "PF{к}-быть{}-INCH{қзу}-PF{кнэн}-",
+              "gloss_ru": "PF-быть-INCH-PF",
+              "gloss_index_ru": "PF{к}-быть{}-INCH{қзу}-PF{кнэн}-",
+              "gr.pos": "v"
+            }
+          ],
+          "off_start": 20,
+          "off_end": 29,
+          "next_word": 5,
+          "sentence_index": 3,
+          "sentence_index_neg": 0
+        },
+        {
+          "wtype": "punct",
+          "wf": ".",
+          "off_start": 29,
+          "off_end": 30,
+          "next_word": 6
+        }
+      ],
+      "text": "1. Манк Кутх ҳољака кқзукнэн.",
+      "para_alignment": [
+        {
+          "off_start": 0,
+          "off_end": 30,
+          "para_id": 488
+        }
+      ]
+    },
+    {
+      "lang": 0,
+      "words": [
+        {
+          "wtype": "punct",
+          "wf": "2.",
+          "off_start": 0,
+          "off_end": 2,
+          "next_word": 1
+        },
+        {
+          "wtype": "word",
+          "wf": "Ксуњқзукнэн",
+          "ana": [
+            {
+              "parts": "к-суњ-қзу-кнэн",
+              "gloss": "",
+              "gloss_index": "PF{к}-жить{суњ}-INCH{қзу}-PF{кнэн}-",
+              "gloss_ru": "PF-жить-INCH-PF",
+              "gloss_index_ru": "PF{к}-жить{суњ}-INCH{қзу}-PF{кнэн}-",
+              "gr.pos": "v"
+            }
+          ],
+          "off_start": 3,
+          "off_end": 15,
+          "next_word": 2,
+          "sentence_index": 0,
+          "sentence_index_neg": 2
+        },
+        {
+          "wtype": "word",
+          "wf": "Кутх",
+          "ana": [
+            {
+              "parts": "Кутх",
+              "gloss": "",
+              "gloss_index": "",
+              "gr.pos": "n"
+            }
+          ],
+          "off_start": 16,
+          "off_end": 20,
+          "next_word": 3,
+          "sentence_index": 1,
+          "sentence_index_neg": 1
+        },
+        {
+          "wtype": "word",
+          "wf": "ҳољака",
+          "ana": [
+            {
+              "parts": "ҳоља-ка",
+              "gloss": "",
+              "gloss_index": "парень{ҳоља}-TRANS{ка}-",
+              "gloss_ru": "парень-TRANS",
+              "gloss_index_ru": "парень{ҳоља}-TRANS{ка}-",
+              "gr.pos": "n"
+            }
+          ],
+          "off_start": 21,
+          "off_end": 27,
+          "next_word": 4,
+          "sentence_index": 2,
+          "sentence_index_neg": 0
+        },
+        {
+          "wtype": "punct",
+          "wf": ".",
+          "off_start": 27,
+          "off_end": 28,
+          "next_word": 5
+        }
+      ],
+      "text": "2. Ксуњқзукнэн Кутх ҳољака.",
+      "para_alignment": [
+        {
+          "off_start": 0,
+          "off_end": 28,
+          "para_id": 489
+        }
+      ]
+    },
+    {
+      "lang": 0,
+      "words": [
+        {
+          "wtype": "punct",
+          "wf": "3.",
+          "off_start": 0,
+          "off_end": 2,
+          "next_word": 1
+        },
+        {
+          "wtype": "word",
+          "wf": "Љви",
+          "ana": [
+            {
+              "parts": "љви",
+              "gloss": "",
+              "gloss_index": "STEM{љви}-",
+              "lex": "љви",
+              "trans_ru": "очень",
+              "gloss_ru": "очень",
+              "gloss_index_ru": "STEM{љви}-",
+              "gr.pos": "adv"
+            }
+          ],
+          "off_start": 3,
+          "off_end": 6,
+          "next_word": 2,
+          "sentence_index": 0,
+          "sentence_index_neg": 2
+        },
+        {
+          "wtype": "word",
+          "wf": "кчихлқˀин",
+          "off_start": 7,
+          "off_end": 17,
+          "next_word": 3,
+          "sentence_index": 1,
+          "sentence_index_neg": 1
+        },
+        {
+          "wtype": "word",
+          "wf": "кқзукнэн",
+          "ana": [
+            {
+              "parts": "к--қзу-кнэн",
+              "gloss": "",
+              "gloss_index": "PF{к}-быть{}-INCH{қзу}-PF{кнэн}-",
+              "gloss_ru": "PF-быть-INCH-PF",
+              "gloss_index_ru": "PF{к}-быть{}-INCH{қзу}-PF{кнэн}-",
+              "gr.pos": "v"
+            }
+          ],
+          "off_start": 18,
+          "off_end": 27,
+          "next_word": 4,
+          "sentence_index": 2,
+          "sentence_index_neg": 0
+        },
+        {
+          "wtype": "punct",
+          "wf": ".",
+          "off_start": 27,
+          "off_end": 28,
+          "next_word": 5
+        }
+      ],
+      "text": "3. Љви кчихлқˀин кқзукнэн.",
+      "para_alignment": [
+        {
+          "off_start": 0,
+          "off_end": 28,
+          "para_id": 490
+        }
+      ]
+    },
+    {
+      "lang": 0,
+      "words": [
+        {
+          "wtype": "punct",
+          "wf": "4.",
+          "off_start": 0,
+          "off_end": 2,
+          "next_word": 1
+        },
+        {
+          "wtype": "word",
+          "wf": "Qат",
+          "ana": [
+            {
+              "parts": "qат",
+              "gloss": "",
+              "gloss_index": "STEM{qат}-",
+              "lex": "qат",
+              "trans_ru": "уже",
+              "gloss_ru": "уже",
+              "gloss_index_ru": "STEM{qат}-",
+              "gr.pos": "adv"
+            }
+          ],
+          "off_start": 3,
+          "off_end": 6,
+          "next_word": 2,
+          "sentence_index": 0,
+          "sentence_index_neg": 7
+        },
+        {
+          "wtype": "word",
+          "wf": "ккʼэнэзикнэн",
+          "ana": [
+            {
+              "parts": "к-кʼэнэзи-кнэн",
+              "gloss": "",
+              "gloss_index": "PF{к}-думать{кʼэнэзи}-PF{кнэн}-",
+              "gloss_ru": "PF-думать-PF",
+              "gloss_index_ru": "PF{к}-думать{кʼэнэзи}-PF{кнэн}-",
+              "gr.pos": "v"
+            }
+          ],
+          "off_start": 7,
+          "off_end": 19,
+          "next_word": 3,
+          "sentence_index": 1,
+          "sentence_index_neg": 6
+        },
+        {
+          "wtype": "word",
+          "wf": "давай",
+          "off_start": 20,
+          "off_end": 25,
+          "next_word": 4,
+          "sentence_index": 2,
+          "sentence_index_neg": 5
+        },
+        {
+          "wtype": "word",
+          "wf": "лутсэ",
+          "ana": [
+            {
+              "parts": "лутсэ",
+              "gloss": "",
+              "gloss_index": ""
+            }
+          ],
+          "off_start": 26,
+          "off_end": 31,
+          "next_word": 5,
+          "sentence_index": 3,
+          "sentence_index_neg": 4
+        },
+        {
+          "wtype": "word",
+          "wf": "мӈахк",
+          "ana": [
+            {
+              "parts": "м-ӈахк",
+              "gloss": "",
+              "gloss_index": "1SG.IMP{м}-жениться{ӈахк}-",
+              "gloss_ru": "1SG.IMP-жениться",
+              "gloss_index_ru": "1SG.IMP{м}-жениться{ӈахк}-",
+              "gr.pos": "v"
+            }
+          ],
+          "off_start": 32,
+          "off_end": 38,
+          "next_word": 6,
+          "sentence_index": 4,
+          "sentence_index_neg": 3
+        },
+        {
+          "wtype": "word",
+          "wf": "этакой",
+          "off_start": 39,
+          "off_end": 45,
+          "next_word": 7,
+          "sentence_index": 5,
+          "sentence_index_neg": 2
+        },
+        {
+          "wtype": "word",
+          "wf": "кәмма",
+          "ana": [
+            {
+              "parts": "кәмма",
+              "gloss": "",
+              "gloss_index": "STEM{кәмма}-",
+              "lex": "кәмма",
+              "trans_ru": "я",
+              "gloss_ru": "я",
+              "gloss_index_ru": "STEM{кәмма}-",
+              "gr.pos": "pro"
+            }
+          ],
+          "off_start": 46,
+          "off_end": 51,
+          "next_word": 8,
+          "sentence_index": 6,
+          "sentence_index_neg": 1
+        },
+        {
+          "wtype": "word",
+          "wf": "квэтатˀан",
+          "ana": [
+            {
+              "parts": "к-вэтатˀан",
+              "gloss": "",
+              "gloss_index": "PF{к}-STEM{вэтат}-STEM{ˀан}-",
+              "gloss_ru": "PF-работатьPF",
+              "gloss_index_ru": "PF{к}-STEM{вэтат}-STEM{ˀан}-",
+              "lex": "ˀан",
+              "trans_ru": "PF",
+              "gr.pos": [
+                "<Not Sure>",
+                "Verb",
+                "прил"
+              ]
+            }
+          ],
+          "off_start": 52,
+          "off_end": 61,
+          "next_word": 9,
+          "sentence_index": 7,
+          "sentence_index_neg": 0
+        },
+        {
+          "wtype": "punct",
+          "wf": ".",
+          "off_start": 61,
+          "off_end": 62,
+          "next_word": 10
+        }
+      ],
+      "text": "4. Qат ккʼэнэзикнэн давай лутсэ мӈахк этакой кәмма квэтатˀан.",
+      "para_alignment": [
+        {
+          "off_start": 0,
+          "off_end": 62,
+          "para_id": 491
+        }
+      ]
+    },
+    {
+      "lang": 0,
+      "words": [
+        {
+          "wtype": "punct",
+          "wf": "5.",
+          "off_start": 0,
+          "off_end": 2,
+          "next_word": 1
+        },
+        {
+          "wtype": "word",
+          "wf": "Фнэва",
+          "ana": [
+            {
+              "parts": "фнэва",
+              "gloss": "",
+              "gloss_index": "STEM{фнэва}-",
+              "lex": "фнэва",
+              "trans_ru": "он.сам",
+              "gloss_ru": "он.сам",
+              "gloss_index_ru": "STEM{фнэва}-",
+              "gr.pos": "pro"
+            }
+          ],
+          "off_start": 3,
+          "off_end": 8,
+          "next_word": 2,
+          "sentence_index": 0,
+          "sentence_index_neg": 6
+        },
+        {
+          "wtype": "word",
+          "wf": "увик",
+          "ana": [
+            {
+              "parts": "увик",
+              "gloss": "",
+              "gloss_index": "STEM{увик}-",
+              "lex": "увик",
+              "trans_ru": "себя",
+              "gloss_ru": "себя",
+              "gloss_index_ru": "STEM{увик}-",
+              "gr.pos": "pro"
+            }
+          ],
+          "off_start": 9,
+          "off_end": 13,
+          "next_word": 3,
+          "sentence_index": 1,
+          "sentence_index_neg": 5
+        },
+        {
+          "wtype": "word",
+          "wf": "аӈйақзознэн",
+          "ana": [
+            {
+              "parts": "аӈйа-қзо-з-нэн",
+              "gloss": "",
+              "gloss_index": "хвалить{аӈйа}-INCH{қзо}-PRES{з}-3a.3SGp{нэн}-",
+              "gloss_ru": "хвалить-INCH-PRES-3a.3SGp",
+              "gloss_index_ru": "хвалить{аӈйа}-INCH{қзо}-PRES{з}-3a.3SGp{нэн}-",
+              "gr.pos": "v"
+            }
+          ],
+          "off_start": 14,
+          "off_end": 25,
+          "next_word": 4,
+          "sentence_index": 2,
+          "sentence_index_neg": 4
+        },
+        {
+          "wtype": "word",
+          "wf": "а",
+          "ana": [
+            {
+              "parts": "а",
+              "gloss": "",
+              "gloss_index": ""
+            }
+          ],
+          "off_start": 26,
+          "off_end": 27,
+          "next_word": 5,
+          "sentence_index": 3,
+          "sentence_index_neg": 3
+        },
+        {
+          "wtype": "word",
+          "wf": "фсэ",
+          "off_start": 28,
+          "off_end": 31,
+          "next_word": 6,
+          "sentence_index": 4,
+          "sentence_index_neg": 2
+        },
+        {
+          "wtype": "word",
+          "wf": "дэфкаˀн",
+          "ana": [
+            {
+              "parts": "дэфка-ˀн",
+              "gloss": "",
+              "gloss_index": "PL{ˀн}-",
+              "gloss_ru": "-PL",
+              "gloss_index_ru": "PL{ˀн}-"
+            }
+          ],
+          "off_start": 32,
+          "off_end": 39,
+          "next_word": 7,
+          "sentence_index": 5,
+          "sentence_index_neg": 1
+        },
+        {
+          "wtype": "word",
+          "wf": "нҳақаниқзузнэн",
+          "ana": [
+            {
+              "parts": "н-ҳақани-қзу-з-нэн",
+              "gloss": "",
+              "gloss_index": "1\\3PLa{н}-злиться{ҳақани}-INCH{қзу}-PRES{з}-3a.3SGp{нэн}-",
+              "gloss_ru": "1\\3PLa-злиться-INCH-PRES-3a.3SGp",
+              "gloss_index_ru": "1\\3PLa{н}-злиться{ҳақани}-INCH{қзу}-PRES{з}-3a.3SGp{нэн}-",
+              "gr.pos": "v"
+            }
+          ],
+          "off_start": 40,
+          "off_end": 54,
+          "next_word": 8,
+          "sentence_index": 6,
+          "sentence_index_neg": 0
+        },
+        {
+          "wtype": "punct",
+          "wf": ".",
+          "off_start": 54,
+          "off_end": 55,
+          "next_word": 9
+        }
+      ],
+      "text": "5. Фнэва увик аӈйақзознэн а фсэ дэфкаˀн нҳақаниқзузнэн.",
+      "para_alignment": [
+        {
+          "off_start": 0,
+          "off_end": 55,
+          "para_id": 492
+        }
+      ]
+    },
+    {
+      "lang": 0,
+      "words": [
+        {
+          "wtype": "punct",
+          "wf": "6.",
+          "off_start": 0,
+          "off_end": 2,
+          "next_word": 1
+        },
+        {
+          "wtype": "word",
+          "wf": "А",
+          "ana": [
+            {
+              "parts": "а",
+              "gloss": "",
+              "gloss_index": ""
+            }
+          ],
+          "off_start": 3,
+          "off_end": 4,
+          "next_word": 2,
+          "sentence_index": 0,
+          "sentence_index_neg": 13
+        },
+        {
+          "wtype": "word",
+          "wf": "Митиˀин",
+          "ana": [
+            {
+              "parts": "Митиˀин",
+              "gloss": "",
+              "gloss_index": "STEM{Мити}-STEM{ˀин}-",
+              "lex": "ˀин",
+              "trans_ru": "POSS",
+              "gloss_ru": "МитиPOSS",
+              "gloss_index_ru": "STEM{Мити}-STEM{ˀин}-",
+              "gr.pos": "n"
+            }
+          ],
+          "off_start": 5,
+          "off_end": 12,
+          "next_word": 3,
+          "sentence_index": 1,
+          "sentence_index_neg": 12
+        },
+        {
+          "wtype": "word",
+          "wf": "исх",
+          "ana": [
+            {
+              "parts": "исх",
+              "gloss": "",
+              "gloss_index": "отец{исх}-",
+              "gloss_ru": "отец",
+              "gloss_index_ru": "отец{исх}-",
+              "gr.pos": "n"
+            }
+          ],
+          "off_start": 13,
+          "off_end": 16,
+          "next_word": 4,
+          "sentence_index": 2,
+          "sentence_index_neg": 11
+        },
+        {
+          "wtype": "word",
+          "wf": "и",
+          "ana": [
+            {
+              "parts": "и",
+              "gloss": "",
+              "gloss_index": "STEM{и}-",
+              "lex": "и",
+              "trans_ru": "и",
+              "gloss_ru": "и",
+              "gloss_index_ru": "STEM{и}-",
+              "gr.pos": "<Not Sure>"
+            }
+          ],
+          "off_start": 17,
+          "off_end": 18,
+          "next_word": 5,
+          "sentence_index": 3,
+          "sentence_index_neg": 10
+        },
+        {
+          "wtype": "word",
+          "wf": "лаҳсҳ",
+          "ana": [
+            {
+              "parts": "лаҳсҳ",
+              "gloss": "",
+              "gloss_index": "мать{лаҳсҳ}-",
+              "gloss_ru": "мать",
+              "gloss_index_ru": "мать{лаҳсҳ}-",
+              "gr.pos": "n"
+            }
+          ],
+          "off_start": 19,
+          "off_end": 24,
+          "next_word": 6,
+          "sentence_index": 4,
+          "sentence_index_neg": 9
+        },
+        {
+          "wtype": "word",
+          "wf": "кқзукнэн",
+          "ana": [
+            {
+              "parts": "к--қзу-кнэн",
+              "gloss": "",
+              "gloss_index": "PF{к}-быть{}-INCH{қзу}-PF{кнэн}-",
+              "gloss_ru": "PF-быть-INCH-PF",
+              "gloss_index_ru": "PF{к}-быть{}-INCH{қзу}-PF{кнэн}-",
+              "gr.pos": "v"
+            }
+          ],
+          "off_start": 25,
+          "off_end": 34,
+          "next_word": 7,
+          "sentence_index": 5,
+          "sentence_index_neg": 8
+        },
+        {
+          "wtype": "word",
+          "wf": "Кутхай",
+          "ana": [
+            {
+              "parts": "Кутх-ай",
+              "gloss": "",
+              "gloss_index": "Кутх {Кутх}-AUG{ай}-",
+              "gloss_ru": "Кутх -AUG",
+              "gloss_index_ru": "Кутх {Кутх}-AUG{ай}-",
+              "gr.pos": "n"
+            }
+          ],
+          "off_start": 35,
+          "off_end": 41,
+          "next_word": 8,
+          "sentence_index": 6,
+          "sentence_index_neg": 7
+        },
+        {
+          "wtype": "word",
+          "wf": "ҳэнисч",
+          "ana": [
+            {
+              "parts": "ҳэни-с-ч",
+              "gloss": "",
+              "gloss_index": "говорить{ҳэни}-PRES{с}-2\\3SGa{ч}-",
+              "gloss_ru": "говорить-PRES-2\\3SGa",
+              "gloss_index_ru": "говорить{ҳэни}-PRES{с}-2\\3SGa{ч}-",
+              "gr.pos": "v"
+            }
+          ],
+          "off_start": 42,
+          "off_end": 48,
+          "next_word": 9,
+          "sentence_index": 7,
+          "sentence_index_neg": 6
+        },
+        {
+          "wtype": "word",
+          "wf": "давай",
+          "off_start": 49,
+          "off_end": 54,
+          "next_word": 10,
+          "sentence_index": 8,
+          "sentence_index_neg": 5
+        },
+        {
+          "wtype": "word",
+          "wf": "лутсэ",
+          "ana": [
+            {
+              "parts": "лутсэ",
+              "gloss": "",
+              "gloss_index": ""
+            }
+          ],
+          "off_start": 55,
+          "off_end": 60,
+          "next_word": 11,
+          "sentence_index": 9,
+          "sentence_index_neg": 4
+        },
+        {
+          "wtype": "word",
+          "wf": "Митинк",
+          "ana": [
+            {
+              "parts": "Мити-н-к",
+              "gloss": "",
+              "gloss_index": "STEM{Мити}-POSS{н}-LOC{к}-",
+              "lex": "Мити",
+              "trans_ru": "Мити",
+              "gloss_ru": "Мити-POSS-LOC",
+              "gloss_index_ru": "STEM{Мити}-POSS{н}-LOC{к}-",
+              "gr.pos": "n"
+            }
+          ],
+          "off_start": 61,
+          "off_end": 67,
+          "next_word": 12,
+          "sentence_index": 10,
+          "sentence_index_neg": 3
+        },
+        {
+          "wtype": "word",
+          "wf": "мӈахкэчан",
+          "ana": [
+            {
+              "parts": "м-ӈах-кэчан",
+              "gloss": "",
+              "gloss_index": "1SG.IMP{м}-STEM{ӈах}-1{кэчан}-",
+              "gloss_ru": "1SG.IMP-жениться-1",
+              "gloss_index_ru": "1SG.IMP{м}-STEM{ӈах}-1{кэчан}-",
+              "lex": "ӈах",
+              "trans_ru": "жениться",
+              "gr.pos": "v"
+            }
+          ],
+          "off_start": 68,
+          "off_end": 78,
+          "next_word": 13,
+          "sentence_index": 11,
+          "sentence_index_neg": 2
+        },
+        {
+          "wtype": "word",
+          "wf": "мича",
+          "ana": [
+            {
+              "parts": "мича",
+              "gloss": "",
+              "gloss_index": "STEM{мича}-",
+              "lex": "мича",
+              "trans_ru": "красивый",
+              "gloss_ru": "красивый",
+              "gloss_index_ru": "STEM{мича}-",
+              "gr.pos": "прил"
+            }
+          ],
+          "off_start": 79,
+          "off_end": 83,
+          "next_word": 14,
+          "sentence_index": 12,
+          "sentence_index_neg": 1
+        },
+        {
+          "wtype": "word",
+          "wf": "экэчҳ",
+          "ana": [
+            {
+              "parts": "экэчҳ",
+              "gloss": "",
+              "gloss_index": "STEM{экэчҳ}-",
+              "lex": "экэчҳ",
+              "trans_ru": "девочка",
+              "gloss_ru": "девочка",
+              "gloss_index_ru": "STEM{экэчҳ}-",
+              "gr.pos": "n"
+            }
+          ],
+          "off_start": 84,
+          "off_end": 89,
+          "next_word": 15,
+          "sentence_index": 13,
+          "sentence_index_neg": 0
+        },
+        {
+          "wtype": "punct",
+          "wf": ".",
+          "off_start": 89,
+          "off_end": 90,
+          "next_word": 16
+        }
+      ],
+      "text": "6. А Митиˀин исх и лаҳсҳ кқзукнэн Кутхай ҳэнисч давай лутсэ Митинк мӈахкэчан мича экэчҳ.",
+      "para_alignment": [
+        {
+          "off_start": 0,
+          "off_end": 90,
+          "para_id": 493
+        }
+      ]
+    },
+    {
+      "lang": 0,
+      "words": [
+        {
+          "wtype": "punct",
+          "wf": "7.",
+          "off_start": 0,
+          "off_end": 2,
+          "next_word": 1
+        },
+        {
+          "wtype": "word",
+          "wf": "Qат",
+          "ana": [
+            {
+              "parts": "qат",
+              "gloss": "",
+              "gloss_index": "STEM{qат}-",
+              "lex": "qат",
+              "trans_ru": "уже",
+              "gloss_ru": "уже",
+              "gloss_index_ru": "STEM{qат}-",
+              "gr.pos": "adv"
+            }
+          ],
+          "off_start": 3,
+          "off_end": 6,
+          "next_word": 2,
+          "sentence_index": 0,
+          "sentence_index_neg": 13
+        },
+        {
+          "wtype": "word",
+          "wf": "ккзикнэн",
+          "ana": [
+            {
+              "parts": "к-кзи-кнэн",
+              "gloss": "",
+              "gloss_index": "PF{к}-собираться{кзи}-PF{кнэн}-",
+              "gloss_ru": "PF-собираться-PF",
+              "gloss_index_ru": "PF{к}-собираться{кзи}-PF{кнэн}-",
+              "gr.pos": "v"
+            }
+          ],
+          "off_start": 7,
+          "off_end": 16,
+          "next_word": 3,
+          "sentence_index": 1,
+          "sentence_index_neg": 12
+        },
+        {
+          "wtype": "word",
+          "wf": "Кутхай",
+          "ana": [
+            {
+              "parts": "Кутх-ай",
+              "gloss": "",
+              "gloss_index": "Кутх {Кутх}-AUG{ай}-",
+              "gloss_ru": "Кутх -AUG",
+              "gloss_index_ru": "Кутх {Кутх}-AUG{ай}-",
+              "gr.pos": "n"
+            }
+          ],
+          "off_start": 17,
+          "off_end": 23,
+          "next_word": 4,
+          "sentence_index": 2,
+          "sentence_index_neg": 11
+        },
+        {
+          "wtype": "word",
+          "wf": "пэхал",
+          "ana": [
+            {
+              "parts": "пэхал",
+              "gloss": "",
+              "gloss_index": "STEM{пэхал}-",
+              "lex": "пэхал",
+              "trans_ru": "шапка",
+              "gloss_ru": "шапка",
+              "gloss_index_ru": "STEM{пэхал}-",
+              "gr.pos": "n"
+            }
+          ],
+          "off_start": 24,
+          "off_end": 29,
+          "next_word": 5,
+          "sentence_index": 3,
+          "sentence_index_neg": 10
+        },
+        {
+          "wtype": "word",
+          "wf": "затпэтки",
+          "off_start": 30,
+          "off_end": 38,
+          "next_word": 6,
+          "sentence_index": 4,
+          "sentence_index_neg": 9
+        },
+        {
+          "wtype": "word",
+          "wf": "ктхˀин",
+          "ana": [
+            {
+              "parts": "к-тхˀин",
+              "gloss": "",
+              "gloss_index": "PF{к}-надевать{тх}-STEM{ˀин}-",
+              "gloss_ru": "PF-надеватьPF",
+              "gloss_index_ru": "PF{к}-надевать{тх}-STEM{ˀин}-",
+              "lex": "ˀин",
+              "trans_ru": "PF",
+              "gr.pos": [
+                "Verb",
+                "v"
+              ]
+            }
+          ],
+          "off_start": 39,
+          "off_end": 46,
+          "next_word": 7,
+          "sentence_index": 5,
+          "sentence_index_neg": 8
+        },
+        {
+          "wtype": "word",
+          "wf": "и",
+          "ana": [
+            {
+              "parts": "и",
+              "gloss": "",
+              "gloss_index": "STEM{и}-",
+              "lex": "и",
+              "trans_ru": "и",
+              "gloss_ru": "и",
+              "gloss_index_ru": "STEM{и}-",
+              "gr.pos": "<Not Sure>"
+            }
+          ],
+          "off_start": 47,
+          "off_end": 48,
+          "next_word": 8,
+          "sentence_index": 6,
+          "sentence_index_neg": 7
+        },
+        {
+          "wtype": "word",
+          "wf": "чʼопақэˀн",
+          "off_start": 49,
+          "off_end": 58,
+          "next_word": 9,
+          "sentence_index": 7,
+          "sentence_index_neg": 6
+        },
+        {
+          "wtype": "word",
+          "wf": "салˀан",
+          "ana": [
+            {
+              "parts": "салˀан",
+              "gloss": "",
+              "gloss_index": "STEM{салˀан}-",
+              "lex": "салˀан",
+              "trans_ru": "задний",
+              "gloss_ru": "задний",
+              "gloss_index_ru": "STEM{салˀан}-",
+              "gr.pos": "прил"
+            }
+          ],
+          "off_start": 59,
+          "off_end": 65,
+          "next_word": 10,
+          "sentence_index": 8,
+          "sentence_index_neg": 5
+        },
+        {
+          "wtype": "word",
+          "wf": "касоӈ",
+          "ana": [
+            {
+              "parts": "касоӈ",
+              "gloss": "",
+              "gloss_index": "STEM{касоӈ}-",
+              "lex": "касоӈ",
+              "trans_ru": "сторона",
+              "gloss_ru": "сторона",
+              "gloss_index_ru": "STEM{касоӈ}-",
+              "gr.pos": "n"
+            }
+          ],
+          "off_start": 66,
+          "off_end": 71,
+          "next_word": 11,
+          "sentence_index": 9,
+          "sentence_index_neg": 4
+        },
+        {
+          "wtype": "word",
+          "wf": "кфањчкэ",
+          "ana": [
+            {
+              "parts": "кфањчкэ",
+              "gloss": "",
+              "gloss_index": "STEM{кфањчкэ}-",
+              "lex": "кфањчкэ",
+              "trans_ru": "вперёд",
+              "gloss_ru": "вперёд",
+              "gloss_index_ru": "STEM{кфањчкэ}-",
+              "gr.pos": "adv"
+            }
+          ],
+          "off_start": 72,
+          "off_end": 80,
+          "next_word": 12,
+          "sentence_index": 10,
+          "sentence_index_neg": 3
+        },
+        {
+          "wtype": "word",
+          "wf": "кәнсхозӈаˀан",
+          "ana": [
+            {
+              "parts": "к-әнсхозӈаˀан",
+              "gloss": "",
+              "gloss_index": "PF{к}-поворачивать{әнсхозӈа}-STEM{ˀан}-",
+              "gloss_ru": "PF-поворачиватьPF",
+              "gloss_index_ru": "PF{к}-поворачивать{әнсхозӈа}-STEM{ˀан}-",
+              "lex": "ˀан",
+              "trans_ru": "PF",
+              "gr.pos": [
+                "Verb",
+                "v"
+              ]
+            }
+          ],
+          "off_start": 81,
+          "off_end": 93,
+          "next_word": 13,
+          "sentence_index": 11,
+          "sentence_index_neg": 2
+        },
+        {
+          "wtype": "word",
+          "wf": "и",
+          "ana": [
+            {
+              "parts": "и",
+              "gloss": "",
+              "gloss_index": "STEM{и}-",
+              "lex": "и",
+              "trans_ru": "и",
+              "gloss_ru": "и",
+              "gloss_index_ru": "STEM{и}-",
+              "gr.pos": "<Not Sure>"
+            }
+          ],
+          "off_start": 94,
+          "off_end": 95,
+          "next_word": 14,
+          "sentence_index": 12,
+          "sentence_index_neg": 1
+        },
+        {
+          "wtype": "word",
+          "wf": "кситкнэн",
+          "ana": [
+            {
+              "parts": "к-сит-кнэн",
+              "gloss": "",
+              "gloss_index": "PF{к}-подпоясаться{сит}-PF{кнэн}-",
+              "gloss_ru": "PF-подпоясаться-PF",
+              "gloss_index_ru": "PF{к}-подпоясаться{сит}-PF{кнэн}-",
+              "gr.pos": "v"
+            }
+          ],
+          "off_start": 96,
+          "off_end": 104,
+          "next_word": 15,
+          "sentence_index": 13,
+          "sentence_index_neg": 0
+        },
+        {
+          "wtype": "punct",
+          "wf": ".",
+          "off_start": 104,
+          "off_end": 105,
+          "next_word": 16
+        }
+      ],
+      "text": "7. Qат ккзикнэн Кутхай пэхал затпэтки ктхˀин и чʼопақэˀн салˀан касоӈ кфањчкэ кәнсхозӈаˀан и кситкнэн.",
+      "para_alignment": [
+        {
+          "off_start": 0,
+          "off_end": 105,
+          "para_id": 494
+        }
+      ]
+    },
+    {
+      "lang": 0,
+      "words": [
+        {
+          "wtype": "punct",
+          "wf": "8.",
+          "off_start": 0,
+          "off_end": 2,
+          "next_word": 1
+        },
+        {
+          "wtype": "word",
+          "wf": "Нука",
+          "ana": [
+            {
+              "parts": "нука",
+              "gloss": "",
+              "gloss_index": ""
+            }
+          ],
+          "off_start": 3,
+          "off_end": 7,
+          "next_word": 2,
+          "sentence_index": 0,
+          "sentence_index_neg": 3
+        },
+        {
+          "wtype": "word",
+          "wf": "Мэтэнкэ",
+          "ana": [
+            {
+              "parts": "Мэтэ-нкэ",
+              "gloss": "",
+              "gloss_index": "STEM{Мэтэ}-DAT{нкэ}-",
+              "lex": "Мэтэ",
+              "trans_ru": "Мити",
+              "gloss_ru": "Мити-DAT",
+              "gloss_index_ru": "STEM{Мэтэ}-DAT{нкэ}-",
+              "gr.pos": "n"
+            }
+          ],
+          "off_start": 8,
+          "off_end": 15,
+          "next_word": 3,
+          "sentence_index": 1,
+          "sentence_index_neg": 2
+        },
+        {
+          "wtype": "word",
+          "wf": "сватаˀнокэ",
+          "ana": [
+            {
+              "parts": "сватаˀ-нокэ",
+              "gloss": "",
+              "gloss_index": "свататься{сватаˀ}-SUP{нокэ}-",
+              "gloss_ru": "свататься-SUP",
+              "gloss_index_ru": "свататься{сватаˀ}-SUP{нокэ}-",
+              "gr.pos": "v"
+            }
+          ],
+          "off_start": 16,
+          "off_end": 27,
+          "next_word": 4,
+          "sentence_index": 2,
+          "sentence_index_neg": 1
+        },
+        {
+          "wtype": "word",
+          "wf": "микичэн",
+          "ana": [
+            {
+              "parts": "м-и-кичэн",
+              "gloss": "",
+              "gloss_index": "1SG.IMP{м}-уходить{и}-1{кичэн}-",
+              "gloss_ru": "1SG.IMP-уходить-1",
+              "gloss_index_ru": "1SG.IMP{м}-уходить{и}-1{кичэн}-",
+              "gr.pos": "v"
+            }
+          ],
+          "off_start": 28,
+          "off_end": 36,
+          "next_word": 5,
+          "sentence_index": 3,
+          "sentence_index_neg": 0
+        },
+        {
+          "wtype": "punct",
+          "wf": ".",
+          "off_start": 36,
+          "off_end": 37,
+          "next_word": 6
+        }
+      ],
+      "text": "8. Нука Мэтэнкэ сватаˀнокэ микичэн.",
+      "para_alignment": [
+        {
+          "off_start": 0,
+          "off_end": 37,
+          "para_id": 495
+        }
+      ]
+    },
+    {
+      "lang": 0,
+      "words": [
+        {
+          "wtype": "punct",
+          "wf": "9.",
+          "off_start": 0,
+          "off_end": 2,
+          "next_word": 1
+        },
+        {
+          "wtype": "word",
+          "wf": "Иˀэнк",
+          "ana": [
+            {
+              "parts": "иˀ-энк",
+              "gloss": "",
+              "gloss_index": "вода{иˀ}-LOC{энк}-",
+              "gloss_ru": "вода-LOC",
+              "gloss_index_ru": "вода{иˀ}-LOC{энк}-",
+              "gr.pos": "n"
+            }
+          ],
+          "off_start": 3,
+          "off_end": 8,
+          "next_word": 2,
+          "sentence_index": 0,
+          "sentence_index_neg": 10
+        },
+        {
+          "wtype": "word",
+          "wf": "кзэрклачокнан",
+          "ana": [
+            {
+              "parts": "к-зэрклачо-кнан",
+              "gloss": "",
+              "gloss_index": "PF{к}-PF{кнан}-",
+              "gloss_ru": "PF--PF",
+              "gloss_index_ru": "PF{к}-PF{кнан}-"
+            }
+          ],
+          "off_start": 9,
+          "off_end": 22,
+          "next_word": 3,
+          "sentence_index": 1,
+          "sentence_index_neg": 9
+        },
+        {
+          "wtype": "word",
+          "wf": "увик",
+          "ana": [
+            {
+              "parts": "увик",
+              "gloss": "",
+              "gloss_index": "STEM{увик}-",
+              "lex": "увик",
+              "trans_ru": "себя",
+              "gloss_ru": "себя",
+              "gloss_index_ru": "STEM{увик}-",
+              "gr.pos": "pro"
+            }
+          ],
+          "off_start": 23,
+          "off_end": 27,
+          "next_word": 4,
+          "sentence_index": 2,
+          "sentence_index_neg": 8
+        },
+        {
+          "wtype": "word",
+          "wf": "әчкузнэн",
+          "ana": [
+            {
+              "parts": "әчку-з-нэн",
+              "gloss": "",
+              "gloss_index": "смотреть{әчку}-PRES{з}-3a.3SGp{нэн}-",
+              "gloss_ru": "смотреть-PRES-3a.3SGp",
+              "gloss_index_ru": "смотреть{әчку}-PRES{з}-3a.3SGp{нэн}-",
+              "gr.pos": "v"
+            }
+          ],
+          "off_start": 28,
+          "off_end": 37,
+          "next_word": 5,
+          "sentence_index": 3,
+          "sentence_index_neg": 7
+        },
+        {
+          "wtype": "word",
+          "wf": "љви",
+          "ana": [
+            {
+              "parts": "љви",
+              "gloss": "",
+              "gloss_index": "STEM{љви}-",
+              "lex": "љви",
+              "trans_ru": "очень",
+              "gloss_ru": "очень",
+              "gloss_index_ru": "STEM{љви}-",
+              "gr.pos": "adv"
+            }
+          ],
+          "off_start": 38,
+          "off_end": 41,
+          "next_word": 6,
+          "sentence_index": 4,
+          "sentence_index_neg": 6
+        },
+        {
+          "wtype": "word",
+          "wf": "кәмма",
+          "ana": [
+            {
+              "parts": "кәмма",
+              "gloss": "",
+              "gloss_index": "STEM{кәмма}-",
+              "lex": "кәмма",
+              "trans_ru": "я",
+              "gloss_ru": "я",
+              "gloss_index_ru": "STEM{кәмма}-",
+              "gr.pos": "pro"
+            }
+          ],
+          "off_start": 42,
+          "off_end": 47,
+          "next_word": 7,
+          "sentence_index": 5,
+          "sentence_index_neg": 5
+        },
+        {
+          "wtype": "word",
+          "wf": "мэхну",
+          "ana": [
+            {
+              "parts": "мэхну",
+              "gloss": "",
+              "gloss_index": "STEM{мэхну}-",
+              "lex": "мэхну",
+              "trans_ru": "наверное",
+              "gloss_ru": "наверное",
+              "gloss_index_ru": "STEM{мэхну}-",
+              "gr.pos": "adv"
+            }
+          ],
+          "off_start": 48,
+          "off_end": 53,
+          "next_word": 8,
+          "sentence_index": 6,
+          "sentence_index_neg": 4
+        },
+        {
+          "wtype": "word",
+          "wf": "бравой",
+          "off_start": 54,
+          "off_end": 60,
+          "next_word": 9,
+          "sentence_index": 7,
+          "sentence_index_neg": 3
+        },
+        {
+          "wtype": "word",
+          "wf": "сороно",
+          "ana": [
+            {
+              "parts": "сороно",
+              "gloss": "",
+              "gloss_index": ""
+            }
+          ],
+          "off_start": 61,
+          "off_end": 67,
+          "next_word": 10,
+          "sentence_index": 8,
+          "sentence_index_neg": 2
+        },
+        {
+          "wtype": "word",
+          "wf": "Мити",
+          "ana": [
+            {
+              "parts": "Мити",
+              "gloss": "",
+              "gloss_index": "STEM{Мити}-",
+              "lex": "Мити",
+              "trans_ru": "Мити",
+              "gloss_ru": "Мити",
+              "gloss_index_ru": "STEM{Мити}-",
+              "gr.pos": "n"
+            }
+          ],
+          "off_start": 68,
+          "off_end": 72,
+          "next_word": 11,
+          "sentence_index": 9,
+          "sentence_index_neg": 1
+        },
+        {
+          "wtype": "word",
+          "wf": "әлфчахэн",
+          "ana": [
+            {
+              "parts": "әлфча-хэн",
+              "gloss": "",
+              "gloss_index": "соглашаться{әлфча}-3SG.a{хэн}-",
+              "gloss_ru": "соглашаться-3SG.a",
+              "gloss_index_ru": "соглашаться{әлфча}-3SG.a{хэн}-",
+              "gr.pos": "v"
+            }
+          ],
+          "off_start": 73,
+          "off_end": 81,
+          "next_word": 12,
+          "sentence_index": 10,
+          "sentence_index_neg": 0
+        },
+        {
+          "wtype": "punct",
+          "wf": ".",
+          "off_start": 81,
+          "off_end": 82,
+          "next_word": 13
+        }
+      ],
+      "text": "9. Иˀэнк кзэрклачокнан увик әчкузнэн љви кәмма мэхну бравой сороно Мити әлфчахэн.",
+      "para_alignment": [
+        {
+          "off_start": 0,
+          "off_end": 82,
+          "para_id": 496
+        }
+      ]
+    },
+    {
+      "lang": 0,
+      "words": [
+        {
+          "wtype": "punct",
+          "wf": "10.",
+          "off_start": 0,
+          "off_end": 3,
+          "next_word": 1
+        },
+        {
+          "wtype": "word",
+          "wf": "Кчʼэкнэн",
+          "ana": [
+            {
+              "parts": "к-чʼэ-кнэн",
+              "gloss": "",
+              "gloss_index": "PF{к}-входить{чʼэ}-PF{кнэн}-",
+              "gloss_ru": "PF-входить-PF",
+              "gloss_index_ru": "PF{к}-входить{чʼэ}-PF{кнэн}-",
+              "gr.pos": "v"
+            }
+          ],
+          "off_start": 4,
+          "off_end": 12,
+          "next_word": 2,
+          "sentence_index": 0
+        },
+        {
+          "wtype": "punct",
+          "wf": ".",
+          "off_start": 12,
+          "off_end": 13,
+          "next_word": 3
+        }
+      ],
+      "text": "10. Кчʼэкнэн.",
+      "para_alignment": [
+        {
+          "off_start": 0,
+          "off_end": 13,
+          "para_id": 497
+        }
+      ]
+    },
+    {
+      "lang": 0,
+      "words": [
+        {
+          "wtype": "punct",
+          "wf": "11.",
+          "off_start": 0,
+          "off_end": 3,
+          "next_word": 1
+        },
+        {
+          "wtype": "word",
+          "wf": "Митин",
+          "off_start": 4,
+          "off_end": 9,
+          "next_word": 2,
+          "sentence_index": 0,
+          "sentence_index_neg": 9
+        },
+        {
+          "wtype": "word",
+          "wf": "исх",
+          "ana": [
+            {
+              "parts": "исх",
+              "gloss": "",
+              "gloss_index": "отец{исх}-",
+              "gloss_ru": "отец",
+              "gloss_index_ru": "отец{исх}-",
+              "gr.pos": "n"
+            }
+          ],
+          "off_start": 10,
+          "off_end": 13,
+          "next_word": 3,
+          "sentence_index": 1,
+          "sentence_index_neg": 8
+        },
+        {
+          "wtype": "word",
+          "wf": "да",
+          "ana": [
+            {
+              "parts": "да",
+              "gloss": "",
+              "gloss_index": ""
+            }
+          ],
+          "off_start": 14,
+          "off_end": 16,
+          "next_word": 4,
+          "sentence_index": 2,
+          "sentence_index_neg": 7
+        },
+        {
+          "wtype": "word",
+          "wf": "лаҳсҳ",
+          "ana": [
+            {
+              "parts": "лаҳсҳ",
+              "gloss": "",
+              "gloss_index": "мать{лаҳсҳ}-",
+              "gloss_ru": "мать",
+              "gloss_index_ru": "мать{лаҳсҳ}-",
+              "gr.pos": "n"
+            }
+          ],
+          "off_start": 17,
+          "off_end": 22,
+          "next_word": 5,
+          "sentence_index": 3,
+          "sentence_index_neg": 6
+        },
+        {
+          "wtype": "word",
+          "wf": "қаˀм",
+          "ana": [
+            {
+              "parts": "қаˀм",
+              "gloss": "",
+              "gloss_index": "NEG{қаˀм}-",
+              "gloss_ru": "NEG",
+              "gloss_index_ru": "NEG{қаˀм}-"
+            }
+          ],
+          "off_start": 23,
+          "off_end": 27,
+          "next_word": 6,
+          "sentence_index": 4,
+          "sentence_index_neg": 5
+        },
+        {
+          "wtype": "word",
+          "wf": "әлфчакақ",
+          "ana": [
+            {
+              "parts": "әлфча-кақ",
+              "gloss": "",
+              "gloss_index": "соглашаться{әлфча}-NEG{кақ}-",
+              "gloss_ru": "соглашаться-NEG",
+              "gloss_index_ru": "соглашаться{әлфча}-NEG{кақ}-",
+              "gr.pos": "v"
+            }
+          ],
+          "off_start": 28,
+          "off_end": 36,
+          "next_word": 7,
+          "sentence_index": 5,
+          "sentence_index_neg": 4
+        },
+        {
+          "wtype": "word",
+          "wf": "а",
+          "ana": [
+            {
+              "parts": "а",
+              "gloss": "",
+              "gloss_index": ""
+            }
+          ],
+          "off_start": 37,
+          "off_end": 38,
+          "next_word": 8,
+          "sentence_index": 6,
+          "sentence_index_neg": 3
+        },
+        {
+          "wtype": "word",
+          "wf": "Мити",
+          "ana": [
+            {
+              "parts": "Мити",
+              "gloss": "",
+              "gloss_index": "STEM{Мити}-",
+              "lex": "Мити",
+              "trans_ru": "Мити",
+              "gloss_ru": "Мити",
+              "gloss_index_ru": "STEM{Мити}-",
+              "gr.pos": "n"
+            }
+          ],
+          "off_start": 39,
+          "off_end": 43,
+          "next_word": 9,
+          "sentence_index": 7,
+          "sentence_index_neg": 2
+        },
+        {
+          "wtype": "word",
+          "wf": "сороно",
+          "ana": [
+            {
+              "parts": "сороно",
+              "gloss": "",
+              "gloss_index": ""
+            }
+          ],
+          "off_start": 44,
+          "off_end": 50,
+          "next_word": 10,
+          "sentence_index": 8,
+          "sentence_index_neg": 1
+        },
+        {
+          "wtype": "word",
+          "wf": "қамзантач",
+          "ana": [
+            {
+              "parts": "қамзант-а-ч",
+              "gloss": "",
+              "gloss_index": "выходить замуж{қамзант}-DESID{а}-2\\3SGa{ч}-",
+              "gloss_ru": "выходить замуж-DESID-2\\3SGa",
+              "gloss_index_ru": "выходить замуж{қамзант}-DESID{а}-2\\3SGa{ч}-",
+              "gr.pos": "v"
+            }
+          ],
+          "off_start": 51,
+          "off_end": 61,
+          "next_word": 11,
+          "sentence_index": 9,
+          "sentence_index_neg": 0
+        },
+        {
+          "wtype": "punct",
+          "wf": ".",
+          "off_start": 61,
+          "off_end": 62,
+          "next_word": 12
+        }
+      ],
+      "text": "11. Митин исх да лаҳсҳ қаˀм әлфчакақ а Мити сороно қамзантач.",
+      "para_alignment": [
+        {
+          "off_start": 0,
+          "off_end": 62,
+          "para_id": 498
+        }
+      ]
+    },
+    {
+      "lang": 0,
+      "words": [
+        {
+          "wtype": "punct",
+          "wf": "12.",
+          "off_start": 0,
+          "off_end": 3,
+          "next_word": 1
+        },
+        {
+          "wtype": "word",
+          "wf": "А",
+          "ana": [
+            {
+              "parts": "а",
+              "gloss": "",
+              "gloss_index": ""
+            }
+          ],
+          "off_start": 4,
+          "off_end": 5,
+          "next_word": 2,
+          "sentence_index": 0,
+          "sentence_index_neg": 9
+        },
+        {
+          "wtype": "word",
+          "wf": "Кутх",
+          "ana": [
+            {
+              "parts": "Кутх",
+              "gloss": "",
+              "gloss_index": "",
+              "gr.pos": "n"
+            }
+          ],
+          "off_start": 6,
+          "off_end": 10,
+          "next_word": 3,
+          "sentence_index": 1,
+          "sentence_index_neg": 8
+        },
+        {
+          "wtype": "word",
+          "wf": "увик",
+          "ana": [
+            {
+              "parts": "увик",
+              "gloss": "",
+              "gloss_index": "STEM{увик}-",
+              "lex": "увик",
+              "trans_ru": "себя",
+              "gloss_ru": "себя",
+              "gloss_index_ru": "STEM{увик}-",
+              "gr.pos": "pro"
+            }
+          ],
+          "off_start": 11,
+          "off_end": 15,
+          "next_word": 4,
+          "sentence_index": 2,
+          "sentence_index_neg": 7
+        },
+        {
+          "wtype": "word",
+          "wf": "аӈйатазнэн",
+          "ana": [
+            {
+              "parts": "аӈйа-та-з-нэн",
+              "gloss": "",
+              "gloss_index": "хвалить{аӈйа}-ITER{т}-PRES{з}-3a.3SGp{нэн}-",
+              "gloss_ru": "хвалить-ITER-PRES-3a.3SGp",
+              "gloss_index_ru": "хвалить{аӈйа}-ITER{т}-PRES{з}-3a.3SGp{нэн}-",
+              "gr.pos": "v"
+            }
+          ],
+          "off_start": 16,
+          "off_end": 26,
+          "next_word": 5,
+          "sentence_index": 3,
+          "sentence_index_neg": 6
+        },
+        {
+          "wtype": "word",
+          "wf": "кәмма",
+          "ana": [
+            {
+              "parts": "кәмма",
+              "gloss": "",
+              "gloss_index": "STEM{кәмма}-",
+              "lex": "кәмма",
+              "trans_ru": "я",
+              "gloss_ru": "я",
+              "gloss_index_ru": "STEM{кәмма}-",
+              "gr.pos": "pro"
+            }
+          ],
+          "off_start": 27,
+          "off_end": 32,
+          "next_word": 6,
+          "sentence_index": 4,
+          "sentence_index_neg": 5
+        },
+        {
+          "wtype": "word",
+          "wf": "љви",
+          "ana": [
+            {
+              "parts": "љви",
+              "gloss": "",
+              "gloss_index": "STEM{љви}-",
+              "lex": "љви",
+              "trans_ru": "очень",
+              "gloss_ru": "очень",
+              "gloss_index_ru": "STEM{љви}-",
+              "gr.pos": "adv"
+            }
+          ],
+          "off_start": 33,
+          "off_end": 36,
+          "next_word": 7,
+          "sentence_index": 5,
+          "sentence_index_neg": 4
+        },
+        {
+          "wtype": "word",
+          "wf": "квэтатˀан",
+          "ana": [
+            {
+              "parts": "к-вэтатˀан",
+              "gloss": "",
+              "gloss_index": "PF{к}-STEM{вэтат}-STEM{ˀан}-",
+              "gloss_ru": "PF-работатьPF",
+              "gloss_index_ru": "PF{к}-STEM{вэтат}-STEM{ˀан}-",
+              "lex": "ˀан",
+              "trans_ru": "PF",
+              "gr.pos": [
+                "<Not Sure>",
+                "Verb",
+                "прил"
+              ]
+            }
+          ],
+          "off_start": 37,
+          "off_end": 46,
+          "next_word": 8,
+          "sentence_index": 6,
+          "sentence_index_neg": 3
+        },
+        {
+          "wtype": "word",
+          "wf": "вэздэ",
+          "off_start": 47,
+          "off_end": 52,
+          "next_word": 9,
+          "sentence_index": 7,
+          "sentence_index_neg": 2
+        },
+        {
+          "wtype": "word",
+          "wf": "аӈқал",
+          "ana": [
+            {
+              "parts": "аӈқа-л",
+              "gloss": "",
+              "gloss_index": "STEM{аӈқа}-",
+              "lex": "аӈқа",
+              "trans_ru": "что",
+              "gloss_ru": "что",
+              "gloss_index_ru": "STEM{аӈқа}-",
+              "gr.pos": "pro-form"
+            }
+          ],
+          "off_start": 53,
+          "off_end": 58,
+          "next_word": 10,
+          "sentence_index": 8,
+          "sentence_index_neg": 1
+        },
+        {
+          "wtype": "word",
+          "wf": "тәњчкиқзуск",
+          "ana": [
+            {
+              "parts": "тәњчки-қзу-ск",
+              "gloss": "",
+              "gloss_index": "INCH{қзу}-PRES{с}-",
+              "gloss_ru": "-INCH-PRES",
+              "gloss_index_ru": "INCH{қзу}-PRES{с}-"
+            }
+          ],
+          "off_start": 59,
+          "off_end": 70,
+          "next_word": 11,
+          "sentence_index": 9,
+          "sentence_index_neg": 0
+        },
+        {
+          "wtype": "punct",
+          "wf": ".",
+          "off_start": 70,
+          "off_end": 71,
+          "next_word": 12
+        }
+      ],
+      "text": "12. А Кутх увик аӈйатазнэн кәмма љви квэтатˀан вэздэ аӈқал тәњчкиқзуск.",
+      "para_alignment": [
+        {
+          "off_start": 0,
+          "off_end": 71,
+          "para_id": 499
+        }
+      ]
+    },
+    {
+      "lang": 0,
+      "words": [
+        {
+          "wtype": "punct",
+          "wf": "13.",
+          "off_start": 0,
+          "off_end": 3,
+          "next_word": 1
+        },
+        {
+          "wtype": "word",
+          "wf": "Мэтэнкэ",
+          "ana": [
+            {
+              "parts": "Мэтэ-нкэ",
+              "gloss": "",
+              "gloss_index": "STEM{Мэтэ}-DAT{нкэ}-",
+              "lex": "Мэтэ",
+              "trans_ru": "Мити",
+              "gloss_ru": "Мити-DAT",
+              "gloss_index_ru": "STEM{Мэтэ}-DAT{нкэ}-",
+              "gr.pos": "n"
+            }
+          ],
+          "off_start": 4,
+          "off_end": 11,
+          "next_word": 2,
+          "sentence_index": 0,
+          "sentence_index_neg": 4
+        },
+        {
+          "wtype": "word",
+          "wf": "ҳэнисч",
+          "ana": [
+            {
+              "parts": "ҳэни-с-ч",
+              "gloss": "",
+              "gloss_index": "говорить{ҳэни}-PRES{с}-2\\3SGa{ч}-",
+              "gloss_ru": "говорить-PRES-2\\3SGa",
+              "gloss_index_ru": "говорить{ҳэни}-PRES{с}-2\\3SGa{ч}-",
+              "gr.pos": "v"
+            }
+          ],
+          "off_start": 12,
+          "off_end": 18,
+          "next_word": 3,
+          "sentence_index": 1,
+          "sentence_index_neg": 3
+        },
+        {
+          "wtype": "word",
+          "wf": "хэˀњч",
+          "ana": [
+            {
+              "parts": "хэˀњч",
+              "gloss": "",
+              "gloss_index": "NEG.FUT{хэˀњч}-",
+              "gloss_ru": "NEG.FUT",
+              "gloss_index_ru": "NEG.FUT{хэˀњч}-"
+            }
+          ],
+          "off_start": 19,
+          "off_end": 24,
+          "next_word": 4,
+          "sentence_index": 2,
+          "sentence_index_neg": 2
+        },
+        {
+          "wtype": "word",
+          "wf": "итʼэ",
+          "ana": [
+            {
+              "parts": "итʼэ",
+              "gloss": "",
+              "gloss_index": "STEM{итʼэ}-",
+              "lex": "итʼэ",
+              "trans_ru": "когда",
+              "gloss_ru": "когда",
+              "gloss_index_ru": "STEM{итʼэ}-",
+              "gr.pos": "adv"
+            }
+          ],
+          "off_start": 25,
+          "off_end": 29,
+          "next_word": 5,
+          "sentence_index": 3,
+          "sentence_index_neg": 1
+        },
+        {
+          "wtype": "word",
+          "wf": "қсхлитхч",
+          "ana": [
+            {
+              "parts": "қсхлитх-ч",
+              "gloss": "",
+              "gloss_index": "STEM{қсхлитх}-2\\3SGa{ч}-",
+              "lex": "қсхлитх",
+              "trans_ru": "голодать",
+              "gloss_ru": "голодать-2\\3SGa",
+              "gloss_index_ru": "STEM{қсхлитх}-2\\3SGa{ч}-",
+              "gr.pos": "v"
+            }
+          ],
+          "off_start": 30,
+          "off_end": 38,
+          "next_word": 6,
+          "sentence_index": 4,
+          "sentence_index_neg": 0
+        },
+        {
+          "wtype": "punct",
+          "wf": ".",
+          "off_start": 38,
+          "off_end": 39,
+          "next_word": 7
+        }
+      ],
+      "text": "13. Мэтэнкэ ҳэнисч хэˀњч итʼэ қсхлитхч.",
+      "para_alignment": [
+        {
+          "off_start": 0,
+          "off_end": 39,
+          "para_id": 500
+        }
+      ]
+    },
+    {
+      "lang": 0,
+      "words": [
+        {
+          "wtype": "punct",
+          "wf": "14.",
+          "off_start": 0,
+          "off_end": 3,
+          "next_word": 1
+        },
+        {
+          "wtype": "word",
+          "wf": "А",
+          "ana": [
+            {
+              "parts": "а",
+              "gloss": "",
+              "gloss_index": ""
+            }
+          ],
+          "off_start": 4,
+          "off_end": 5,
+          "next_word": 2,
+          "sentence_index": 0,
+          "sentence_index_neg": 15
+        },
+        {
+          "wtype": "word",
+          "wf": "исхэˀнк",
+          "ana": [
+            {
+              "parts": "исхэˀн-к",
+              "gloss": "",
+              "gloss_index": "STEM{исхэˀн}-LOC{к}-",
+              "lex": "исхэˀн",
+              "trans_ru": "родители",
+              "gloss_ru": "родители-LOC",
+              "gloss_index_ru": "STEM{исхэˀн}-LOC{к}-",
+              "gr.pos": "n"
+            }
+          ],
+          "off_start": 6,
+          "off_end": 13,
+          "next_word": 3,
+          "sentence_index": 1,
+          "sentence_index_neg": 14
+        },
+        {
+          "wtype": "word",
+          "wf": "Мити",
+          "ana": [
+            {
+              "parts": "Мити",
+              "gloss": "",
+              "gloss_index": "STEM{Мити}-",
+              "lex": "Мити",
+              "trans_ru": "Мити",
+              "gloss_ru": "Мити",
+              "gloss_index_ru": "STEM{Мити}-",
+              "gr.pos": "n"
+            }
+          ],
+          "off_start": 14,
+          "off_end": 18,
+          "next_word": 4,
+          "sentence_index": 2,
+          "sentence_index_neg": 13
+        },
+        {
+          "wtype": "word",
+          "wf": "нинэқзозэн",
+          "ana": [
+            {
+              "parts": "н-инэ-қзо-з-эн",
+              "gloss": "",
+              "gloss_index": "1\\3PLa{н}-уговаривать{инэ}-INCH{қзо}-PRES{з}-3SG.p{эн}-",
+              "gloss_ru": "1\\3PLa-уговаривать-INCH-PRES-3SG.p",
+              "gloss_index_ru": "1\\3PLa{н}-уговаривать{инэ}-INCH{қзо}-PRES{з}-3SG.p{эн}-",
+              "gr.pos": "v"
+            }
+          ],
+          "off_start": 19,
+          "off_end": 29,
+          "next_word": 5,
+          "sentence_index": 3,
+          "sentence_index_neg": 12
+        },
+        {
+          "wtype": "word",
+          "wf": "зақ",
+          "ana": [
+            {
+              "parts": "зақ",
+              "gloss": "",
+              "gloss_index": "STEM{зақ}-",
+              "lex": "зақ",
+              "trans_ru": "NEG.IMP",
+              "gloss_ru": "NEG.IMP.2SG",
+              "gloss_index_ru": "STEM{зақ}-",
+              "gr.pos": "<Not Sure>"
+            }
+          ],
+          "off_start": 30,
+          "off_end": 33,
+          "next_word": 6,
+          "sentence_index": 4,
+          "sentence_index_neg": 11
+        },
+        {
+          "wtype": "word",
+          "wf": "илфсақ",
+          "ana": [
+            {
+              "parts": "илфс-ақ",
+              "gloss": "",
+              "gloss_index": "STEM{илфс}-NEG{ақ}-",
+              "lex": "илфс",
+              "trans_ru": "слушать",
+              "gloss_ru": "слушать-NEG",
+              "gloss_index_ru": "STEM{илфс}-NEG{ақ}-",
+              "gr.pos": "v"
+            }
+          ],
+          "off_start": 34,
+          "off_end": 40,
+          "next_word": 7,
+          "sentence_index": 5,
+          "sentence_index_neg": 10
+        },
+        {
+          "wtype": "word",
+          "wf": "қʼисх",
+          "ana": [
+            {
+              "parts": "қʼ-и-с-х",
+              "gloss": "",
+              "gloss_index": "IMP.2{қʼ}-STEM{и}-PRES{с}-2SGa.3SGp.IMP{х}-",
+              "gloss_ru": "IMP.2-NEG.AUX-PRES-2SGa.3SGp.IMP",
+              "gloss_index_ru": "IMP.2{қʼ}-STEM{и}-PRES{с}-2SGa.3SGp.IMP{х}-",
+              "lex": "и",
+              "trans_ru": "NEG",
+              "gr.pos": "v"
+            }
+          ],
+          "off_start": 41,
+          "off_end": 46,
+          "next_word": 8,
+          "sentence_index": 6,
+          "sentence_index_neg": 9
+        },
+        {
+          "wtype": "word",
+          "wf": "мин",
+          "ana": [
+            {
+              "parts": "мин",
+              "gloss": "",
+              "gloss_index": "STEM{мин}-",
+              "lex": "мин",
+              "trans_ru": "который",
+              "gloss_ru": "который",
+              "gloss_index_ru": "STEM{мин}-",
+              "gr.pos": "pro-form"
+            }
+          ],
+          "off_start": 47,
+          "off_end": 50,
+          "next_word": 9,
+          "sentence_index": 7,
+          "sentence_index_neg": 8
+        },
+        {
+          "wtype": "word",
+          "wf": "увик",
+          "ana": [
+            {
+              "parts": "увик",
+              "gloss": "",
+              "gloss_index": "STEM{увик}-",
+              "lex": "увик",
+              "trans_ru": "себя",
+              "gloss_ru": "себя",
+              "gloss_index_ru": "STEM{увик}-",
+              "gr.pos": "pro"
+            }
+          ],
+          "off_start": 51,
+          "off_end": 55,
+          "next_word": 10,
+          "sentence_index": 8,
+          "sentence_index_neg": 7
+        },
+        {
+          "wtype": "word",
+          "wf": "аӈйақзознэн",
+          "ana": [
+            {
+              "parts": "аӈйа-қзо-з-нэн",
+              "gloss": "",
+              "gloss_index": "хвалить{аӈйа}-INCH{қзо}-PRES{з}-3a.3SGp{нэн}-",
+              "gloss_ru": "хвалить-INCH-PRES-3a.3SGp",
+              "gloss_index_ru": "хвалить{аӈйа}-INCH{қзо}-PRES{з}-3a.3SGp{нэн}-",
+              "gr.pos": "v"
+            }
+          ],
+          "off_start": 56,
+          "off_end": 67,
+          "next_word": 11,
+          "sentence_index": 9,
+          "sentence_index_neg": 6
+        },
+        {
+          "wtype": "word",
+          "wf": "ну",
+          "ana": [
+            {
+              "parts": "ну",
+              "gloss": "",
+              "gloss_index": "STEM{ну}-",
+              "lex": "ну",
+              "trans_ru": "тот",
+              "gloss_ru": "тот",
+              "gloss_index_ru": "STEM{ну}-",
+              "gr.pos": "pro"
+            }
+          ],
+          "off_start": 68,
+          "off_end": 70,
+          "next_word": 12,
+          "sentence_index": 10,
+          "sentence_index_neg": 5
+        },
+        {
+          "wtype": "word",
+          "wf": "қаˀм",
+          "ana": [
+            {
+              "parts": "қаˀм",
+              "gloss": "",
+              "gloss_index": "NEG{қаˀм}-",
+              "gloss_ru": "NEG",
+              "gloss_index_ru": "NEG{қаˀм}-"
+            }
+          ],
+          "off_start": 71,
+          "off_end": 75,
+          "next_word": 13,
+          "sentence_index": 11,
+          "sentence_index_neg": 4
+        },
+        {
+          "wtype": "word",
+          "wf": "соњэс",
+          "ana": [
+            {
+              "parts": "соњэс",
+              "gloss": "",
+              "gloss_index": "жизнь{соњэс}-",
+              "gloss_ru": "жизнь",
+              "gloss_index_ru": "жизнь{соњэс}-",
+              "gr.pos": "n"
+            }
+          ],
+          "off_start": 76,
+          "off_end": 82,
+          "next_word": 14,
+          "sentence_index": 12,
+          "sentence_index_neg": 3
+        },
+        {
+          "wtype": "word",
+          "wf": "тэӈлаҳ",
+          "ana": [
+            {
+              "parts": "тэӈлаҳ",
+              "gloss": "",
+              "gloss_index": "STEM{тэӈлаҳ}-",
+              "lex": "тэӈлаҳ",
+              "trans_ru": "хороший",
+              "gloss_ru": "хороший",
+              "gloss_index_ru": "STEM{тэӈлаҳ}-",
+              "gr.pos": [
+                "прил",
+                "adv"
+              ]
+            }
+          ],
+          "off_start": 83,
+          "off_end": 89,
+          "next_word": 15,
+          "sentence_index": 13,
+          "sentence_index_neg": 2
+        },
+        {
+          "wtype": "word",
+          "wf": "әчкуқ",
+          "ana": [
+            {
+              "parts": "әчку-қ",
+              "gloss": "",
+              "gloss_index": "смотреть{әчку}-NEG{қ}-",
+              "gloss_ru": "смотреть-NEG",
+              "gloss_index_ru": "смотреть{әчку}-NEG{қ}-",
+              "gr.pos": "v"
+            }
+          ],
+          "off_start": 90,
+          "off_end": 96,
+          "next_word": 16,
+          "sentence_index": 14,
+          "sentence_index_neg": 1
+        },
+        {
+          "wtype": "word",
+          "wf": "иэн",
+          "ana": [
+            {
+              "parts": "и-эн",
+              "gloss": "",
+              "gloss_index": "STEM{и}-3SG.p{эн}-",
+              "lex": "и",
+              "trans_ru": "NEG",
+              "gloss_ru": "NEG.AUX-3SG.p",
+              "gloss_index_ru": "STEM{и}-3SG.p{эн}-",
+              "gr.pos": "v"
+            }
+          ],
+          "off_start": 97,
+          "off_end": 101,
+          "next_word": 17,
+          "sentence_index": 15,
+          "sentence_index_neg": 0
+        },
+        {
+          "wtype": "punct",
+          "wf": ".",
+          "off_start": 101,
+          "off_end": 102,
+          "next_word": 18
+        }
+      ],
+      "text": "14. А исхэˀнк Мити нинэқзозэн зақ илфсақ қʼисх мин увик аӈйақзознэн ну қаˀм соњэс тэӈлаҳ әчкуқ иэн.",
+      "para_alignment": [
+        {
+          "off_start": 0,
+          "off_end": 102,
+          "para_id": 501
+        }
+      ]
+    },
+    {
+      "lang": 0,
+      "words": [
+        {
+          "wtype": "punct",
+          "wf": "15.",
+          "off_start": 0,
+          "off_end": 3,
+          "next_word": 1
+        },
+        {
+          "wtype": "word",
+          "wf": "А",
+          "ana": [
+            {
+              "parts": "а",
+              "gloss": "",
+              "gloss_index": ""
+            }
+          ],
+          "off_start": 4,
+          "off_end": 5,
+          "next_word": 2,
+          "sentence_index": 0,
+          "sentence_index_neg": 5
+        },
+        {
+          "wtype": "word",
+          "wf": "Мити",
+          "ana": [
+            {
+              "parts": "Мити",
+              "gloss": "",
+              "gloss_index": "STEM{Мити}-",
+              "lex": "Мити",
+              "trans_ru": "Мити",
+              "gloss_ru": "Мити",
+              "gloss_index_ru": "STEM{Мити}-",
+              "gr.pos": "n"
+            }
+          ],
+          "off_start": 6,
+          "off_end": 10,
+          "next_word": 3,
+          "sentence_index": 1,
+          "sentence_index_neg": 4
+        },
+        {
+          "wtype": "word",
+          "wf": "қаˀм",
+          "ana": [
+            {
+              "parts": "қаˀм",
+              "gloss": "",
+              "gloss_index": "NEG{қаˀм}-",
+              "gloss_ru": "NEG",
+              "gloss_index_ru": "NEG{қаˀм}-"
+            }
+          ],
+          "off_start": 11,
+          "off_end": 15,
+          "next_word": 4,
+          "sentence_index": 2,
+          "sentence_index_neg": 3
+        },
+        {
+          "wtype": "word",
+          "wf": "илфскақ",
+          "ana": [
+            {
+              "parts": "илфс-кақ",
+              "gloss": "",
+              "gloss_index": "STEM{илфс}-NEG{кақ}-",
+              "lex": "илфс",
+              "trans_ru": "слушать",
+              "gloss_ru": "слушать-NEG",
+              "gloss_index_ru": "STEM{илфс}-NEG{кақ}-",
+              "gr.pos": "v"
+            }
+          ],
+          "off_start": 16,
+          "off_end": 23,
+          "next_word": 5,
+          "sentence_index": 3,
+          "sentence_index_neg": 2
+        },
+        {
+          "wtype": "word",
+          "wf": "сороно",
+          "ana": [
+            {
+              "parts": "сороно",
+              "gloss": "",
+              "gloss_index": ""
+            }
+          ],
+          "off_start": 24,
+          "off_end": 30,
+          "next_word": 6,
+          "sentence_index": 4,
+          "sentence_index_neg": 1
+        },
+        {
+          "wtype": "word",
+          "wf": "кқамзантэкнэн",
+          "ana": [
+            {
+              "parts": "к-қамзантэ-кнэн",
+              "gloss": "",
+              "gloss_index": "PF{к}-STEM{қамзантэ}-PF{кнэн}-",
+              "gloss_ru": "PF-выходить.замуж-PF",
+              "gloss_index_ru": "PF{к}-STEM{қамзантэ}-PF{кнэн}-",
+              "lex": "қамзантэ",
+              "trans_ru": "выходить замуж",
+              "gr.pos": "v"
+            }
+          ],
+          "off_start": 31,
+          "off_end": 44,
+          "next_word": 7,
+          "sentence_index": 5,
+          "sentence_index_neg": 0
+        },
+        {
+          "wtype": "punct",
+          "wf": ".",
+          "off_start": 44,
+          "off_end": 45,
+          "next_word": 8
+        }
+      ],
+      "text": "15. А Мити қаˀм илфскақ сороно кқамзантэкнэн.",
+      "para_alignment": [
+        {
+          "off_start": 0,
+          "off_end": 45,
+          "para_id": 502
+        }
+      ]
+    },
+    {
+      "lang": 0,
+      "words": [
+        {
+          "wtype": "punct",
+          "wf": "16.",
+          "off_start": 0,
+          "off_end": 3,
+          "next_word": 1
+        },
+        {
+          "wtype": "word",
+          "wf": "А",
+          "ana": [
+            {
+              "parts": "а",
+              "gloss": "",
+              "gloss_index": ""
+            }
+          ],
+          "off_start": 4,
+          "off_end": 5,
+          "next_word": 2,
+          "sentence_index": 0,
+          "sentence_index_neg": 13
+        },
+        {
+          "wtype": "word",
+          "wf": "исхэˀн",
+          "ana": [
+            {
+              "parts": "исхэˀн",
+              "gloss": "",
+              "gloss_index": "STEM{исхэˀн}-",
+              "lex": "исхэˀн",
+              "trans_ru": "родители",
+              "gloss_ru": "родители",
+              "gloss_index_ru": "STEM{исхэˀн}-",
+              "gr.pos": "n"
+            }
+          ],
+          "off_start": 6,
+          "off_end": 12,
+          "next_word": 3,
+          "sentence_index": 1,
+          "sentence_index_neg": 12
+        },
+        {
+          "wtype": "word",
+          "wf": "Мэтэнкэ",
+          "ana": [
+            {
+              "parts": "Мэтэ-нкэ",
+              "gloss": "",
+              "gloss_index": "STEM{Мэтэ}-DAT{нкэ}-",
+              "lex": "Мэтэ",
+              "trans_ru": "Мити",
+              "gloss_ru": "Мити-DAT",
+              "gloss_index_ru": "STEM{Мэтэ}-DAT{нкэ}-",
+              "gr.pos": "n"
+            }
+          ],
+          "off_start": 13,
+          "off_end": 20,
+          "next_word": 4,
+          "sentence_index": 2,
+          "sentence_index_neg": 11
+        },
+        {
+          "wtype": "word",
+          "wf": "ҳэнискинэн",
+          "ana": [
+            {
+              "parts": "ҳэни-с-кинэн",
+              "gloss": "",
+              "gloss_index": "говорить{ҳэни}-PRES{с}-3SG.p.OBL{кинэн}-",
+              "gloss_ru": "говорить-PRES-3SG.p.OBL",
+              "gloss_index_ru": "говорить{ҳэни}-PRES{с}-3SG.p.OBL{кинэн}-"
+            }
+          ],
+          "off_start": 21,
+          "off_end": 31,
+          "next_word": 5,
+          "sentence_index": 3,
+          "sentence_index_neg": 10
+        },
+        {
+          "wtype": "word",
+          "wf": "ну",
+          "ana": [
+            {
+              "parts": "ну",
+              "gloss": "",
+              "gloss_index": "STEM{ну}-",
+              "lex": "ну",
+              "trans_ru": "тот",
+              "gloss_ru": "тот",
+              "gloss_index_ru": "STEM{ну}-",
+              "gr.pos": "pro"
+            }
+          ],
+          "off_start": 32,
+          "off_end": 34,
+          "next_word": 6,
+          "sentence_index": 4,
+          "sentence_index_neg": 9
+        },
+        {
+          "wtype": "word",
+          "wf": "Мити",
+          "ana": [
+            {
+              "parts": "Мити",
+              "gloss": "",
+              "gloss_index": "STEM{Мити}-",
+              "lex": "Мити",
+              "trans_ru": "Мити",
+              "gloss_ru": "Мити",
+              "gloss_index_ru": "STEM{Мити}-",
+              "gr.pos": "n"
+            }
+          ],
+          "off_start": 35,
+          "off_end": 39,
+          "next_word": 7,
+          "sentence_index": 5,
+          "sentence_index_neg": 8
+        },
+        {
+          "wtype": "word",
+          "wf": "қаˀм",
+          "ana": [
+            {
+              "parts": "қаˀм",
+              "gloss": "",
+              "gloss_index": "NEG{қаˀм}-",
+              "gloss_ru": "NEG",
+              "gloss_index_ru": "NEG{қаˀм}-"
+            }
+          ],
+          "off_start": 40,
+          "off_end": 44,
+          "next_word": 8,
+          "sentence_index": 6,
+          "sentence_index_neg": 7
+        },
+        {
+          "wtype": "word",
+          "wf": "илфсақ",
+          "ana": [
+            {
+              "parts": "илфс-ақ",
+              "gloss": "",
+              "gloss_index": "STEM{илфс}-NEG{ақ}-",
+              "lex": "илфс",
+              "trans_ru": "слушать",
+              "gloss_ru": "слушать-NEG",
+              "gloss_index_ru": "STEM{илфс}-NEG{ақ}-",
+              "gr.pos": "v"
+            }
+          ],
+          "off_start": 45,
+          "off_end": 51,
+          "next_word": 9,
+          "sentence_index": 7,
+          "sentence_index_neg": 6
+        },
+        {
+          "wtype": "word",
+          "wf": "имиˀӈ",
+          "ana": [
+            {
+              "parts": "и-миˀӈ",
+              "gloss": "",
+              "gloss_index": "STEM{и}-3a.2PLp{миˀӈ}-",
+              "lex": "и",
+              "trans_ru": "NEG",
+              "gloss_ru": "NEG.AUX-3a.2PLp",
+              "gloss_index_ru": "STEM{и}-3a.2PLp{миˀӈ}-",
+              "gr.pos": "v"
+            }
+          ],
+          "off_start": 52,
+          "off_end": 58,
+          "next_word": 10,
+          "sentence_index": 8,
+          "sentence_index_neg": 5
+        },
+        {
+          "wtype": "word",
+          "wf": "хэˀњч",
+          "ana": [
+            {
+              "parts": "хэˀњч",
+              "gloss": "",
+              "gloss_index": "NEG.FUT{хэˀњч}-",
+              "gloss_ru": "NEG.FUT",
+              "gloss_index_ru": "NEG.FUT{хэˀњч}-"
+            }
+          ],
+          "off_start": 59,
+          "off_end": 64,
+          "next_word": 11,
+          "sentence_index": 9,
+          "sentence_index_neg": 4
+        },
+        {
+          "wtype": "word",
+          "wf": "итʼэ",
+          "ana": [
+            {
+              "parts": "итʼэ",
+              "gloss": "",
+              "gloss_index": "STEM{итʼэ}-",
+              "lex": "итʼэ",
+              "trans_ru": "когда",
+              "gloss_ru": "когда",
+              "gloss_index_ru": "STEM{итʼэ}-",
+              "gr.pos": "adv"
+            }
+          ],
+          "off_start": 65,
+          "off_end": 69,
+          "next_word": 12,
+          "sentence_index": 10,
+          "sentence_index_neg": 3
+        },
+        {
+          "wtype": "word",
+          "wf": "соњэс",
+          "ana": [
+            {
+              "parts": "соњэс",
+              "gloss": "",
+              "gloss_index": "жизнь{соњэс}-",
+              "gloss_ru": "жизнь",
+              "gloss_index_ru": "жизнь{соњэс}-",
+              "gr.pos": "n"
+            }
+          ],
+          "off_start": 70,
+          "off_end": 76,
+          "next_word": 13,
+          "sentence_index": 11,
+          "sentence_index_neg": 2
+        },
+        {
+          "wtype": "word",
+          "wf": "бравой",
+          "off_start": 77,
+          "off_end": 83,
+          "next_word": 14,
+          "sentence_index": 12,
+          "sentence_index_neg": 1
+        },
+        {
+          "wtype": "word",
+          "wf": "қәчкух",
+          "ana": [
+            {
+              "parts": "қ-әчку-х",
+              "gloss": "",
+              "gloss_index": "IMP.2{қ}-смотреть{әчку}-2SGa.3SGp.IMP{х}-",
+              "gloss_ru": "IMP.2-смотреть-2SGa.3SGp.IMP",
+              "gloss_index_ru": "IMP.2{қ}-смотреть{әчку}-2SGa.3SGp.IMP{х}-",
+              "gr.pos": "v"
+            }
+          ],
+          "off_start": 84,
+          "off_end": 91,
+          "next_word": 15,
+          "sentence_index": 13,
+          "sentence_index_neg": 0
+        },
+        {
+          "wtype": "punct",
+          "wf": ".",
+          "off_start": 91,
+          "off_end": 92,
+          "next_word": 16
+        }
+      ],
+      "text": "16. А исхэˀн Мэтэнкэ ҳэнискинэн ну Мити қаˀм илфсақ имиˀӈ хэˀњч итʼэ соњэс бравой қәчкух.",
+      "para_alignment": [
+        {
+          "off_start": 0,
+          "off_end": 92,
+          "para_id": 503
+        }
+      ]
+    },
+    {
+      "lang": 0,
+      "words": [
+        {
+          "wtype": "punct",
+          "wf": "17.",
+          "off_start": 0,
+          "off_end": 3,
+          "next_word": 1
+        },
+        {
+          "wtype": "word",
+          "wf": "И",
+          "ana": [
+            {
+              "parts": "и",
+              "gloss": "",
+              "gloss_index": "STEM{и}-",
+              "lex": "и",
+              "trans_ru": "и",
+              "gloss_ru": "и",
+              "gloss_index_ru": "STEM{и}-",
+              "gr.pos": "<Not Sure>"
+            }
+          ],
+          "off_start": 4,
+          "off_end": 5,
+          "next_word": 2,
+          "sentence_index": 0,
+          "sentence_index_neg": 12
+        },
+        {
+          "wtype": "word",
+          "wf": "нвонкэ",
+          "ana": [
+            {
+              "parts": "нво-нкэ",
+              "gloss": "",
+              "gloss_index": "STEM{нво}-DAT{нкэ}-",
+              "lex": "нво",
+              "trans_ru": "тот",
+              "gloss_ru": "тот-DAT",
+              "gloss_index_ru": "STEM{нво}-DAT{нкэ}-",
+              "gr.pos": "pro"
+            }
+          ],
+          "off_start": 6,
+          "off_end": 12,
+          "next_word": 3,
+          "sentence_index": 1,
+          "sentence_index_neg": 11
+        },
+        {
+          "wtype": "word",
+          "wf": "Мити",
+          "ana": [
+            {
+              "parts": "Мити",
+              "gloss": "",
+              "gloss_index": "STEM{Мити}-",
+              "lex": "Мити",
+              "trans_ru": "Мити",
+              "gloss_ru": "Мити",
+              "gloss_index_ru": "STEM{Мити}-",
+              "gr.pos": "n"
+            }
+          ],
+          "off_start": 13,
+          "off_end": 17,
+          "next_word": 4,
+          "sentence_index": 2,
+          "sentence_index_neg": 10
+        },
+        {
+          "wtype": "word",
+          "wf": "ксуњқзукнэн",
+          "ana": [
+            {
+              "parts": "к-суњ-қзу-кнэн",
+              "gloss": "",
+              "gloss_index": "PF{к}-жить{суњ}-INCH{қзу}-PF{кнэн}-",
+              "gloss_ru": "PF-жить-INCH-PF",
+              "gloss_index_ru": "PF{к}-жить{суњ}-INCH{қзу}-PF{кнэн}-"
+            }
+          ],
+          "off_start": 18,
+          "off_end": 30,
+          "next_word": 5,
+          "sentence_index": 3,
+          "sentence_index_neg": 9
+        },
+        {
+          "wtype": "word",
+          "wf": "и",
+          "ana": [
+            {
+              "parts": "и",
+              "gloss": "",
+              "gloss_index": "STEM{и}-",
+              "lex": "и",
+              "trans_ru": "и",
+              "gloss_ru": "и",
+              "gloss_index_ru": "STEM{и}-",
+              "gr.pos": "<Not Sure>"
+            }
+          ],
+          "off_start": 31,
+          "off_end": 32,
+          "next_word": 6,
+          "sentence_index": 4,
+          "sentence_index_neg": 8
+        },
+        {
+          "wtype": "word",
+          "wf": "соњэс",
+          "ana": [
+            {
+              "parts": "соњэс",
+              "gloss": "",
+              "gloss_index": "жизнь{соњэс}-",
+              "gloss_ru": "жизнь",
+              "gloss_index_ru": "жизнь{соњэс}-",
+              "gr.pos": "n"
+            }
+          ],
+          "off_start": 33,
+          "off_end": 39,
+          "next_word": 7,
+          "sentence_index": 5,
+          "sentence_index_neg": 7
+        },
+        {
+          "wtype": "word",
+          "wf": "чʼэлисчиӈнэн",
+          "ana": [
+            {
+              "parts": "чʼэли-с-чиӈнэн",
+              "gloss": "",
+              "gloss_index": "делать.(что.то){чʼэли}-PRES{с}-3SGa.3SGp{чиӈнэн}-",
+              "gloss_ru": "делать.(что.то)-PRES-3SGa.3SGp",
+              "gloss_index_ru": "делать.(что.то){чʼэли}-PRES{с}-3SGa.3SGp{чиӈнэн}-",
+              "gr.pos": "v"
+            }
+          ],
+          "off_start": 40,
+          "off_end": 52,
+          "next_word": 8,
+          "sentence_index": 6,
+          "sentence_index_neg": 6
+        },
+        {
+          "wtype": "word",
+          "wf": "қаˀм",
+          "ana": [
+            {
+              "parts": "қаˀм",
+              "gloss": "",
+              "gloss_index": "NEG{қаˀм}-",
+              "gloss_ru": "NEG",
+              "gloss_index_ru": "NEG{қаˀм}-"
+            }
+          ],
+          "off_start": 53,
+          "off_end": 57,
+          "next_word": 9,
+          "sentence_index": 7,
+          "sentence_index_neg": 5
+        },
+        {
+          "wtype": "word",
+          "wf": "аӈқа",
+          "ana": [
+            {
+              "parts": "аӈқа",
+              "gloss": "",
+              "gloss_index": "STEM{аӈқа}-",
+              "lex": "аӈқа",
+              "trans_ru": "что",
+              "gloss_ru": "что",
+              "gloss_index_ru": "STEM{аӈқа}-",
+              "gr.pos": "pro-form"
+            }
+          ],
+          "off_start": 58,
+          "off_end": 62,
+          "next_word": 10,
+          "sentence_index": 8,
+          "sentence_index_neg": 4
+        },
+        {
+          "wtype": "word",
+          "wf": "Котхэхˀал",
+          "ana": [
+            {
+              "parts": "Котхэ-хˀал",
+              "gloss": "",
+              "gloss_index": "STEM{Котх}-ABL{хˀал}-",
+              "lex": "Котх",
+              "trans_ru": "Кутх ",
+              "gloss_ru": "Кутх.-ABL",
+              "gloss_index_ru": "STEM{Котх}-ABL{хˀал}-",
+              "gr.pos": "n"
+            }
+          ],
+          "off_start": 63,
+          "off_end": 72,
+          "next_word": 11,
+          "sentence_index": 9,
+          "sentence_index_neg": 3
+        },
+        {
+          "wtype": "word",
+          "wf": "путной",
+          "off_start": 73,
+          "off_end": 79,
+          "next_word": 12,
+          "sentence_index": 10,
+          "sentence_index_neg": 2
+        },
+        {
+          "wtype": "word",
+          "wf": "әчуқ",
+          "ana": [
+            {
+              "parts": "әчку-қ",
+              "gloss": "",
+              "gloss_index": "смотреть{әчку}-NEG{қ}-",
+              "gloss_ru": "смотреть-NEG",
+              "gloss_index_ru": "смотреть{әчку}-NEG{қ}-"
+            }
+          ],
+          "off_start": 80,
+          "off_end": 85,
+          "next_word": 13,
+          "sentence_index": 11,
+          "sentence_index_neg": 1
+        },
+        {
+          "wtype": "word",
+          "wf": "иснэн",
+          "ana": [
+            {
+              "parts": "и-с-нэн",
+              "gloss": "",
+              "gloss_index": "STEM{и}-PRES{с}-3a.3SGp{нэн}-",
+              "lex": "и",
+              "trans_ru": "NEG",
+              "gloss_ru": "NEG.AUX-PRES-3a.3SGp",
+              "gloss_index_ru": "STEM{и}-PRES{с}-3a.3SGp{нэн}-",
+              "gr.pos": "v"
+            }
+          ],
+          "off_start": 86,
+          "off_end": 91,
+          "next_word": 14,
+          "sentence_index": 12,
+          "sentence_index_neg": 0
+        },
+        {
+          "wtype": "punct",
+          "wf": ".",
+          "off_start": 91,
+          "off_end": 92,
+          "next_word": 15
+        }
+      ],
+      "text": "17. И нвонкэ Мити ксуњқзукнэн и соњэс чʼэлисчиӈнэн қаˀм аӈқа Котхэхˀал путной әчуқ иснэн.",
+      "para_alignment": [
+        {
+          "off_start": 0,
+          "off_end": 92,
+          "para_id": 504
+        }
+      ]
+    },
+    {
+      "lang": 0,
+      "words": [
+        {
+          "wtype": "punct",
+          "wf": "18.",
+          "off_start": 0,
+          "off_end": 3,
+          "next_word": 1
+        },
+        {
+          "wtype": "word",
+          "wf": "Кутх",
+          "ana": [
+            {
+              "parts": "Кутх",
+              "gloss": "",
+              "gloss_index": "",
+              "gr.pos": "n"
+            }
+          ],
+          "off_start": 4,
+          "off_end": 8,
+          "next_word": 2,
+          "sentence_index": 0,
+          "sentence_index_neg": 6
+        },
+        {
+          "wtype": "word",
+          "wf": "қаˀм",
+          "ana": [
+            {
+              "parts": "қаˀм",
+              "gloss": "",
+              "gloss_index": "NEG{қаˀм}-",
+              "gloss_ru": "NEG",
+              "gloss_index_ru": "NEG{қаˀм}-"
+            }
+          ],
+          "off_start": 9,
+          "off_end": 13,
+          "next_word": 3,
+          "sentence_index": 1,
+          "sentence_index_neg": 5
+        },
+        {
+          "wtype": "word",
+          "wf": "аӈқа",
+          "ana": [
+            {
+              "parts": "аӈқа",
+              "gloss": "",
+              "gloss_index": "STEM{аӈқа}-",
+              "lex": "аӈқа",
+              "trans_ru": "что",
+              "gloss_ru": "что",
+              "gloss_index_ru": "STEM{аӈқа}-",
+              "gr.pos": "pro-form"
+            }
+          ],
+          "off_start": 14,
+          "off_end": 18,
+          "next_word": 4,
+          "sentence_index": 2,
+          "sentence_index_neg": 4
+        },
+        {
+          "wtype": "word",
+          "wf": "фнэва",
+          "ana": [
+            {
+              "parts": "фнэва",
+              "gloss": "",
+              "gloss_index": "STEM{фнэва}-",
+              "lex": "фнэва",
+              "trans_ru": "он.сам",
+              "gloss_ru": "он.сам",
+              "gloss_index_ru": "STEM{фнэва}-",
+              "gr.pos": "pro"
+            }
+          ],
+          "off_start": 19,
+          "off_end": 24,
+          "next_word": 5,
+          "sentence_index": 3,
+          "sentence_index_neg": 3
+        },
+        {
+          "wtype": "word",
+          "wf": "эммақ",
+          "ana": [
+            {
+              "parts": "эмм-ақ",
+              "gloss": "",
+              "gloss_index": "добывать охотой{эмм}-NEG{ақ}-",
+              "gloss_ru": "добывать охотой-NEG",
+              "gloss_index_ru": "добывать охотой{эмм}-NEG{ақ}-",
+              "gr.pos": "v"
+            }
+          ],
+          "off_start": 25,
+          "off_end": 31,
+          "next_word": 6,
+          "sentence_index": 4,
+          "sentence_index_neg": 2
+        },
+        {
+          "wtype": "word",
+          "wf": "токо",
+          "ana": [
+            {
+              "parts": "токо",
+              "gloss": "",
+              "gloss_index": ""
+            }
+          ],
+          "off_start": 32,
+          "off_end": 37,
+          "next_word": 7,
+          "sentence_index": 5,
+          "sentence_index_neg": 1
+        },
+        {
+          "wtype": "word",
+          "wf": "апхачʼэқзосч",
+          "ana": [
+            {
+              "parts": "апхачʼэ-қзо-с-ч",
+              "gloss": "",
+              "gloss_index": "INCH{қзо}-PRES{с}-2\\3SGa{ч}-",
+              "gloss_ru": "-INCH-PRES-2\\3SGa",
+              "gloss_index_ru": "INCH{қзо}-PRES{с}-2\\3SGa{ч}-"
+            }
+          ],
+          "off_start": 38,
+          "off_end": 51,
+          "next_word": 8,
+          "sentence_index": 6,
+          "sentence_index_neg": 0
+        },
+        {
+          "wtype": "punct",
+          "wf": ".",
+          "off_start": 51,
+          "off_end": 52,
+          "next_word": 9
+        }
+      ],
+      "text": "18. Кутх қаˀм аӈқа фнэва эммақ токо апхачʼэқзосч.",
+      "para_alignment": [
+        {
+          "off_start": 0,
+          "off_end": 52,
+          "para_id": 505
+        }
+      ]
+    },
+    {
+      "lang": 0,
+      "words": [
+        {
+          "wtype": "punct",
+          "wf": "19.",
+          "off_start": 0,
+          "off_end": 3,
+          "next_word": 1
+        },
+        {
+          "wtype": "word",
+          "wf": "Qуних",
+          "ana": [
+            {
+              "parts": "qуних",
+              "gloss": "",
+              "gloss_index": "STEM{qуних}-",
+              "lex": "qуних",
+              "trans_ru": "INTJ",
+              "gloss_ru": "INTJ",
+              "gloss_index_ru": "STEM{qуних}-",
+              "gr.pos": "<Not Sure>"
+            }
+          ],
+          "off_start": 4,
+          "off_end": 9,
+          "next_word": 2,
+          "sentence_index": 0,
+          "sentence_index_neg": 14
+        },
+        {
+          "wtype": "word",
+          "wf": "Мити",
+          "ana": [
+            {
+              "parts": "Мити",
+              "gloss": "",
+              "gloss_index": "STEM{Мити}-",
+              "lex": "Мити",
+              "trans_ru": "Мити",
+              "gloss_ru": "Мити",
+              "gloss_index_ru": "STEM{Мити}-",
+              "gr.pos": "n"
+            }
+          ],
+          "off_start": 10,
+          "off_end": 14,
+          "next_word": 3,
+          "sentence_index": 1,
+          "sentence_index_neg": 13
+        },
+        {
+          "wtype": "word",
+          "wf": "эсханкэ",
+          "ana": [
+            {
+              "parts": "эсх-анкэ",
+              "gloss": "",
+              "gloss_index": "STEM{эсх}-DAT{анкэ}-",
+              "lex": "эсх",
+              "trans_ru": "отец",
+              "gloss_ru": "отец-DAT",
+              "gloss_index_ru": "STEM{эсх}-DAT{анкэ}-",
+              "gr.pos": "n"
+            }
+          ],
+          "off_start": 15,
+          "off_end": 22,
+          "next_word": 4,
+          "sentence_index": 2,
+          "sentence_index_neg": 12
+        },
+        {
+          "wtype": "word",
+          "wf": "кʼоатэсч",
+          "ana": [
+            {
+              "parts": "кʼоа-тэ-с-ч",
+              "gloss": "",
+              "gloss_index": "идти{кʼоа}-ITER{т}-PRES{с}-2\\3SGa{ч}-",
+              "gloss_ru": "идти-ITER-PRES-2\\3SGa",
+              "gloss_index_ru": "идти{кʼоа}-ITER{т}-PRES{с}-2\\3SGa{ч}-",
+              "gr.pos": "v"
+            }
+          ],
+          "off_start": 23,
+          "off_end": 32,
+          "next_word": 5,
+          "sentence_index": 3,
+          "sentence_index_neg": 11
+        },
+        {
+          "wtype": "word",
+          "wf": "а",
+          "ana": [
+            {
+              "parts": "а",
+              "gloss": "",
+              "gloss_index": ""
+            }
+          ],
+          "off_start": 33,
+          "off_end": 34,
+          "next_word": 6,
+          "sentence_index": 4,
+          "sentence_index_neg": 10
+        },
+        {
+          "wtype": "word",
+          "wf": "исхэнк",
+          "ana": [
+            {
+              "parts": "исх-энк",
+              "gloss": "",
+              "gloss_index": "отец{исх}-LOC{энк}-",
+              "gloss_ru": "отец-LOC",
+              "gloss_index_ru": "отец{исх}-LOC{энк}-"
+            }
+          ],
+          "off_start": 35,
+          "off_end": 41,
+          "next_word": 7,
+          "sentence_index": 5,
+          "sentence_index_neg": 9
+        },
+        {
+          "wtype": "word",
+          "wf": "нэнэқзусч",
+          "ana": [
+            {
+              "parts": "нэнэ-қзу-с-ч",
+              "gloss": "",
+              "gloss_index": "INCH{қзу}-PRES{с}-2\\3SGa{ч}-",
+              "gloss_ru": "-INCH-PRES-2\\3SGa",
+              "gloss_index_ru": "INCH{қзу}-PRES{с}-2\\3SGa{ч}-"
+            }
+          ],
+          "off_start": 42,
+          "off_end": 51,
+          "next_word": 8,
+          "sentence_index": 6,
+          "sentence_index_neg": 8
+        },
+        {
+          "wtype": "word",
+          "wf": "нуи",
+          "off_start": 52,
+          "off_end": 55,
+          "next_word": 9,
+          "sentence_index": 7,
+          "sentence_index_neg": 7
+        },
+        {
+          "wtype": "word",
+          "wf": "қсунсхч",
+          "ana": [
+            {
+              "parts": "қ-сун-с-хч",
+              "gloss": "",
+              "gloss_index": "IMP.2{қ}-STEM{сун}-PRES{с}-2SG.IMP{хч}-",
+              "gloss_ru": "IMP.2-жить-PRES-2SG.IMP",
+              "gloss_index_ru": "IMP.2{қ}-STEM{сун}-PRES{с}-2SG.IMP{хч}-",
+              "lex": "сун",
+              "trans_ru": "жить",
+              "gr.pos": "v"
+            }
+          ],
+          "off_start": 56,
+          "off_end": 63,
+          "next_word": 10,
+          "sentence_index": 8,
+          "sentence_index_neg": 6
+        },
+        {
+          "wtype": "word",
+          "wf": "Кутх",
+          "ana": [
+            {
+              "parts": "Кутх",
+              "gloss": "",
+              "gloss_index": "",
+              "gr.pos": "n"
+            }
+          ],
+          "off_start": 64,
+          "off_end": 68,
+          "next_word": 11,
+          "sentence_index": 9,
+          "sentence_index_neg": 5
+        },
+        {
+          "wtype": "word",
+          "wf": "қчʼэˀсх",
+          "ana": [
+            {
+              "parts": "қ-чʼэˀ-с-х",
+              "gloss": "",
+              "gloss_index": "IMP.2{қ}-STEM{чʼэˀ}-PRES{с}-2SGa.3SGp.IMP{х}-",
+              "gloss_ru": "IMP.2-быть.совместно-PRES-2SGa.3SGp.IMP",
+              "gloss_index_ru": "IMP.2{қ}-STEM{чʼэˀ}-PRES{с}-2SGa.3SGp.IMP{х}-",
+              "lex": "чʼэˀ",
+              "trans_ru": "быть.совместно",
+              "gr.pos": "v"
+            }
+          ],
+          "off_start": 69,
+          "off_end": 77,
+          "next_word": 12,
+          "sentence_index": 10,
+          "sentence_index_neg": 4
+        },
+        {
+          "wtype": "word",
+          "wf": "а",
+          "ana": [
+            {
+              "parts": "а",
+              "gloss": "",
+              "gloss_index": ""
+            }
+          ],
+          "off_start": 78,
+          "off_end": 79,
+          "next_word": 13,
+          "sentence_index": 11,
+          "sentence_index_neg": 3
+        },
+        {
+          "wtype": "word",
+          "wf": "кәмманкэ",
+          "ana": [
+            {
+              "parts": "кәмма-нкэ",
+              "gloss": "",
+              "gloss_index": "STEM{кәмма}-DAT{нкэ}-",
+              "lex": "кәмма",
+              "trans_ru": "я",
+              "gloss_ru": "я-DAT",
+              "gloss_index_ru": "STEM{кәмма}-DAT{нкэ}-",
+              "gr.pos": "pro"
+            }
+          ],
+          "off_start": 80,
+          "off_end": 88,
+          "next_word": 14,
+          "sentence_index": 12,
+          "sentence_index_neg": 2
+        },
+        {
+          "wtype": "word",
+          "wf": "зақ",
+          "ana": [
+            {
+              "parts": "зақ",
+              "gloss": "",
+              "gloss_index": "STEM{зақ}-",
+              "lex": "зақ",
+              "trans_ru": "NEG.IMP",
+              "gloss_ru": "NEG.IMP.2SG",
+              "gloss_index_ru": "STEM{зақ}-",
+              "gr.pos": "<Not Sure>"
+            }
+          ],
+          "off_start": 89,
+          "off_end": 92,
+          "next_word": 15,
+          "sentence_index": 13,
+          "sentence_index_neg": 1
+        },
+        {
+          "wtype": "word",
+          "wf": "кʼоиткақ",
+          "ana": [
+            {
+              "parts": "кʼои-т-кақ",
+              "gloss": "",
+              "gloss_index": "STEM{кʼои}-ITER{т}-NEG{кақ}-",
+              "lex": "кʼои",
+              "trans_ru": "идти",
+              "gloss_ru": "идти-ITER-NEG",
+              "gloss_index_ru": "STEM{кʼои}-ITER{т}-NEG{кақ}-",
+              "gr.pos": "v"
+            }
+          ],
+          "off_start": 93,
+          "off_end": 102,
+          "next_word": 16,
+          "sentence_index": 14,
+          "sentence_index_neg": 0
+        },
+        {
+          "wtype": "punct",
+          "wf": ".",
+          "off_start": 102,
+          "off_end": 103,
+          "next_word": 17
+        }
+      ],
+      "text": "19. Qуних Мити эсханкэ кʼоатэсч а исхэнк нэнэқзусч нуи қсунсхч Кутх қчʼэˀсх а кәмманкэ зақ кʼоиткақ.",
+      "para_alignment": [
+        {
+          "off_start": 0,
+          "off_end": 103,
+          "para_id": 506
+        }
+      ]
+    },
+    {
+      "lang": 0,
+      "words": [
+        {
+          "wtype": "punct",
+          "wf": "20.",
+          "off_start": 0,
+          "off_end": 3,
+          "next_word": 1
+        },
+        {
+          "wtype": "word",
+          "wf": "И",
+          "ana": [
+            {
+              "parts": "и",
+              "gloss": "",
+              "gloss_index": ""
+            }
+          ],
+          "off_start": 4,
+          "off_end": 5,
+          "next_word": 2,
+          "sentence_index": 0,
+          "sentence_index_neg": 10
+        },
+        {
+          "wtype": "word",
+          "wf": "книнк",
+          "ana": [
+            {
+              "parts": "кни-н-к",
+              "gloss": "",
+              "gloss_index": "ты.OBL{кни}-POSS{н}-LOC{к}-",
+              "gloss_ru": "ты.OBL-POSS-LOC",
+              "gloss_index_ru": "ты.OBL{кни}-POSS{н}-LOC{к}-",
+              "gr.pos": "pro"
+            }
+          ],
+          "off_start": 6,
+          "off_end": 11,
+          "next_word": 3,
+          "sentence_index": 1,
+          "sentence_index_neg": 9
+        },
+        {
+          "wtype": "word",
+          "wf": "пʼэˀн",
+          "ana": [
+            {
+              "parts": "пʼэ-ˀн",
+              "gloss": "",
+              "gloss_index": "ребенок{пʼэ}-PL{ˀн}-",
+              "gloss_ru": "ребенок-PL",
+              "gloss_index_ru": "ребенок{пʼэ}-PL{ˀн}-",
+              "gr.pos": "n"
+            }
+          ],
+          "off_start": 12,
+          "off_end": 17,
+          "next_word": 4,
+          "sentence_index": 2,
+          "sentence_index_neg": 8
+        },
+        {
+          "wtype": "word",
+          "wf": "қзахэˀн",
+          "ana": [
+            {
+              "parts": "-қз-а-хэˀн",
+              "gloss": "",
+              "gloss_index": "быть{}-INCH{қз}-FUT{а}-3PLa{хэˀн}-",
+              "gloss_ru": "быть-INCH-FUT-3PLa",
+              "gloss_index_ru": "быть{}-INCH{қз}-FUT{а}-3PLa{хэˀн}-",
+              "gr.pos": "v"
+            }
+          ],
+          "off_start": 18,
+          "off_end": 26,
+          "next_word": 5,
+          "sentence_index": 3,
+          "sentence_index_neg": 7
+        },
+        {
+          "wtype": "word",
+          "wf": "зақ",
+          "ana": [
+            {
+              "parts": "зақ",
+              "gloss": "",
+              "gloss_index": "STEM{зақ}-",
+              "lex": "зақ",
+              "trans_ru": "NEG.IMP",
+              "gloss_ru": "NEG.IMP.2SG",
+              "gloss_index_ru": "STEM{зақ}-",
+              "gr.pos": "<Not Sure>"
+            }
+          ],
+          "off_start": 27,
+          "off_end": 30,
+          "next_word": 6,
+          "sentence_index": 4,
+          "sentence_index_neg": 6
+        },
+        {
+          "wtype": "word",
+          "wf": "нвонкэ",
+          "ana": [
+            {
+              "parts": "нво-нкэ",
+              "gloss": "",
+              "gloss_index": "STEM{нво}-DAT{нкэ}-",
+              "lex": "нво",
+              "trans_ru": "тот",
+              "gloss_ru": "тот-DAT",
+              "gloss_index_ru": "STEM{нво}-DAT{нкэ}-",
+              "gr.pos": "pro"
+            }
+          ],
+          "off_start": 31,
+          "off_end": 37,
+          "next_word": 7,
+          "sentence_index": 5,
+          "sentence_index_neg": 5
+        },
+        {
+          "wtype": "word",
+          "wf": "тфиақ",
+          "ana": [
+            {
+              "parts": "тфи-ақ",
+              "gloss": "",
+              "gloss_index": "NEG{ақ}-",
+              "gloss_ru": "-NEG",
+              "gloss_index_ru": "NEG{ақ}-"
+            }
+          ],
+          "off_start": 38,
+          "off_end": 44,
+          "next_word": 8,
+          "sentence_index": 6,
+          "sentence_index_neg": 4
+        },
+        {
+          "wtype": "word",
+          "wf": "манкэ",
+          "ana": [
+            {
+              "parts": "манкэ",
+              "gloss": "",
+              "gloss_index": "STEM{манкэ}-",
+              "lex": "манкэ",
+              "trans_ru": "куда",
+              "gloss_ru": "куда",
+              "gloss_index_ru": "STEM{манкэ}-",
+              "gr.pos": "adv"
+            }
+          ],
+          "off_start": 45,
+          "off_end": 50,
+          "next_word": 9,
+          "sentence_index": 7,
+          "sentence_index_neg": 3
+        },
+        {
+          "wtype": "word",
+          "wf": "кәзза",
+          "ana": [
+            {
+              "parts": "кәзза",
+              "gloss": "",
+              "gloss_index": "STEM{кәзза}-",
+              "lex": "кәзза",
+              "trans_ru": "ты",
+              "gloss_ru": "ты",
+              "gloss_index_ru": "STEM{кәзза}-",
+              "gr.pos": "pro"
+            }
+          ],
+          "off_start": 51,
+          "off_end": 56,
+          "next_word": 10,
+          "sentence_index": 8,
+          "sentence_index_neg": 2
+        },
+        {
+          "wtype": "word",
+          "wf": "кмилвин",
+          "ana": [
+            {
+              "parts": "кмилвин",
+              "gloss": "",
+              "gloss_index": "STEM{кмилвин}-",
+              "lex": "кмилвин",
+              "trans_ru": "я.сам",
+              "gloss_ru": "я.сам",
+              "gloss_index_ru": "STEM{кмилвин}-",
+              "gr.pos": [
+                "<Not Sure>",
+                "pro-form"
+              ]
+            }
+          ],
+          "off_start": 57,
+          "off_end": 64,
+          "next_word": 11,
+          "sentence_index": 9,
+          "sentence_index_neg": 1
+        },
+        {
+          "wtype": "word",
+          "wf": "тфивэн",
+          "ana": [
+            {
+              "parts": "тфи-хэн",
+              "gloss": "",
+              "gloss_index": "2SG.p{хэн}-",
+              "gloss_ru": "-2SG.p",
+              "gloss_index_ru": "2SG.p{хэн}-"
+            }
+          ],
+          "off_start": 65,
+          "off_end": 72,
+          "next_word": 12,
+          "sentence_index": 10,
+          "sentence_index_neg": 0
+        },
+        {
+          "wtype": "punct",
+          "wf": ".",
+          "off_start": 72,
+          "off_end": 73,
+          "next_word": 13
+        }
+      ],
+      "text": "20. И книнк пʼэˀн қзахэˀн зақ нвонкэ тфиақ манкэ кәзза кмилвин тфивэн.",
+      "para_alignment": [
+        {
+          "off_start": 0,
+          "off_end": 73,
+          "para_id": 507
+        }
+      ]
+    },
+    {
+      "lang": 0,
+      "words": [
+        {
+          "wtype": "punct",
+          "wf": "21.",
+          "off_start": 0,
+          "off_end": 3,
+          "next_word": 1
+        },
+        {
+          "wtype": "word",
+          "wf": "И",
+          "ana": [
+            {
+              "parts": "и",
+              "gloss": "",
+              "gloss_index": "STEM{и}-",
+              "lex": "и",
+              "trans_ru": "и",
+              "gloss_ru": "и",
+              "gloss_index_ru": "STEM{и}-",
+              "gr.pos": "<Not Sure>"
+            }
+          ],
+          "off_start": 4,
+          "off_end": 5,
+          "next_word": 2,
+          "sentence_index": 0,
+          "sentence_index_neg": 7
+        },
+        {
+          "wtype": "word",
+          "wf": "нвонкэ",
+          "ana": [
+            {
+              "parts": "нво-нкэ",
+              "gloss": "",
+              "gloss_index": "STEM{нво}-DAT{нкэ}-",
+              "lex": "нво",
+              "trans_ru": "тот",
+              "gloss_ru": "тот-DAT",
+              "gloss_index_ru": "STEM{нво}-DAT{нкэ}-",
+              "gr.pos": "pro"
+            }
+          ],
+          "off_start": 6,
+          "off_end": 12,
+          "next_word": 3,
+          "sentence_index": 1,
+          "sentence_index_neg": 6
+        },
+        {
+          "wtype": "word",
+          "wf": "Мити",
+          "ana": [
+            {
+              "parts": "Мити",
+              "gloss": "",
+              "gloss_index": "STEM{Мити}-",
+              "lex": "Мити",
+              "trans_ru": "Мити",
+              "gloss_ru": "Мити",
+              "gloss_index_ru": "STEM{Мити}-",
+              "gr.pos": "n"
+            }
+          ],
+          "off_start": 13,
+          "off_end": 17,
+          "next_word": 4,
+          "sentence_index": 2,
+          "sentence_index_neg": 5
+        },
+        {
+          "wtype": "word",
+          "wf": "досэйчас",
+          "off_start": 18,
+          "off_end": 26,
+          "next_word": 5,
+          "sentence_index": 3,
+          "sentence_index_neg": 4
+        },
+        {
+          "wtype": "word",
+          "wf": "мучиˀсин",
+          "off_start": 27,
+          "off_end": 35,
+          "next_word": 6,
+          "sentence_index": 4,
+          "sentence_index_neg": 3
+        },
+        {
+          "wtype": "word",
+          "wf": "Кутхай",
+          "ana": [
+            {
+              "parts": "Кутх-ай",
+              "gloss": "",
+              "gloss_index": "Кутх {Кутх}-AUG{ай}-",
+              "gloss_ru": "Кутх -AUG",
+              "gloss_index_ru": "Кутх {Кутх}-AUG{ай}-",
+              "gr.pos": "n"
+            }
+          ],
+          "off_start": 36,
+          "off_end": 42,
+          "next_word": 7,
+          "sentence_index": 5,
+          "sentence_index_neg": 2
+        },
+        {
+          "wtype": "word",
+          "wf": "чʼэˀнэн",
+          "ana": [
+            {
+              "parts": "чʼэˀ-нэн",
+              "gloss": "",
+              "gloss_index": "STEM{чʼэˀ}-3a.3SGp{нэн}-",
+              "lex": "чʼэˀ",
+              "trans_ru": "быть.совместно",
+              "gloss_ru": "быть.совместно-3a.3SGp",
+              "gloss_index_ru": "STEM{чʼэˀ}-3a.3SGp{нэн}-",
+              "gr.pos": "v"
+            }
+          ],
+          "off_start": 43,
+          "off_end": 51,
+          "next_word": 8,
+          "sentence_index": 6,
+          "sentence_index_neg": 1
+        },
+        {
+          "wtype": "word",
+          "wf": "суњки",
+          "ana": [
+            {
+              "parts": "суњ-ки",
+              "gloss": "",
+              "gloss_index": "жить{суњ}-INF.5{ки}-",
+              "gloss_ru": "жить-INF.5",
+              "gloss_index_ru": "жить{суњ}-INF.5{ки}-",
+              "gr.pos": "v"
+            }
+          ],
+          "off_start": 52,
+          "off_end": 58,
+          "next_word": 9,
+          "sentence_index": 7,
+          "sentence_index_neg": 0
+        },
+        {
+          "wtype": "punct",
+          "wf": ".",
+          "off_start": 58,
+          "off_end": 59,
+          "next_word": 10
+        }
+      ],
+      "text": "21. И нвонкэ Мити досэйчас мучиˀсин Кутхай чʼэˀнэн суњки.",
+      "para_alignment": [
+        {
+          "off_start": 0,
+          "off_end": 59,
+          "para_id": 508
+        }
+      ]
+    }
+  ]
+}
